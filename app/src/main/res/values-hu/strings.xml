@@ -1,2 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="weather_condition_cloudy">Felhős</string>
+    <string name="weather_condition_sleetshowers">Havas eső záporok</string>
+    <string name="weather_condition_heavysleet">Heves havas eső</string>
+    <string name="weather_condition_lightrainshowersandthunder">Enyhe eső záporok és mennydörgés</string>
+    <string name="weather_condition_heavyrain">Heves eső</string>
+    <string name="weather_condition_lightsnowandthunder">Enyhe havazás és mennydörgés</string>
+    <string name="weather_condition_lightrain">Enyhe eső</string>
+    <string name="weather_condition_lightrainshowers">Enyhe eső záporok</string>
+    <string name="weather_condition_lightsnow">Enyhe havazás</string>
+    <string name="weather_condition_heavysleetshowersandthunder">Heves havas eső záporok és mennydörgés</string>
+    <string name="weather_condition_lightsnowshowers">Enyhe hó záporok</string>
+    <string name="weather_condition_lightssleetshowersandthunder">Enyhe havas eső záporok és mennydörgés</string>
+    <string name="weather_condition_snowandthunder">Havazás és mennydörgés</string>
+    <string name="weather_condition_heavysleetshowers">Heves havas eső záporok</string>
+    <string name="weather_condition_heavysnow">Heves havazás</string>
+    <string name="weather_condition_lightrainandthunder">Enyhe eső és mennydörgés</string>
+    <string name="weather_condition_snow">Hó</string>
+    <string name="weather_condition_hail">Jégeső</string>
+    <string name="weather_condition_heavysnowshowers">Heves hó záporok</string>
+    <string name="weather_condition_heavyrainshowers">Heves eső záporok</string>
+    <string name="weather_condition_rainshowersandthunder">Eső záporok és mennydörgés</string>
+    <string name="weather_condition_clearsky">Tiszta ég</string>
+    <string name="weather_condition_sleet">Havas eső</string>
+    <string name="weather_condition_rain">Eső</string>
+    <string name="weather_condition_sleetandthunder">Havas eső és mennydörgés</string>
+    <string name="weather_condition_lightssnowshowersandthunder">Enyhe hó záporok és mennydörgés</string>
+    <string name="weather_condition_heavyrainshowersandthunder">Heves eső záporok és mennydörgés</string>
+    <string name="weather_condition_fair">Kellemes</string>
+    <string name="weather_condition_fog">Köd</string>
+    <string name="weather_condition_sleetshowersandthunder">Havas eső záporok és mennydörgés</string>
+    <string name="weather_condition_rainandthunder">Eső és mennydörgés</string>
+    <string name="weather_condition_lightsleet">Enyhe havas eső</string>
+    <string name="weather_condition_heavysleetandthunder">Heves havas eső és mennydörgés</string>
+    <string name="weather_condition_partlycloudy">Részben felhős</string>
+    <string name="weather_condition_heavysnowandthunder">Heves havazás és mennydörgés</string>
+    <string name="weather_condition_rainshowers">Eső záporok</string>
+    <string name="weather_condition_lightsleetandthunder">Enyhe havas eső és mennydörgés</string>
+    <string name="weather_condition_heavysnowshowersandthunder">Heves hó záporok és mennydörgés</string>
+    <string name="weather_condition_lightsleetshowers">Enyhe havas eső záporok</string>
+    <string name="weather_condition_snowshowersandthunder">Hó záporok és mennydörgés</string>
+    <string name="weather_condition_snowshowers">Hó záporok</string>
+    <string name="weather_condition_heavyrainandthunder">Heves eső és mennydörgés</string>
+    <string name="weather_condition_wind">Szél</string>
+    <string name="weather_condition_unknown">Ismeretlen</string>
+</resources>
