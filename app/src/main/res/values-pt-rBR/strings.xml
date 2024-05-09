@@ -1,2 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="weather_condition_sleetshowers">Neve molhada</string>
+    <string name="weather_condition_heavysleet">Neve molhada intensola</string>
+    <string name="weather_condition_lightrainshowersandthunder">Chuvas leves e trovões</string>
+    <string name="weather_condition_heavyrain">Chuva intensa</string>
+    <string name="weather_condition_lightsnowandthunder">Neve pouco intensa e trovões</string>
+    <string name="weather_condition_lightrain">Chuva leve</string>
+    <string name="weather_condition_lightrainshowers">Chuvas leves</string>
+    <string name="weather_condition_lightsnow">Neve pouco intensa</string>
+    <string name="weather_condition_heavysleetshowersandthunder">Neve molhada intensa e trovões</string>
+    <string name="weather_condition_lightsnowshowers">Neve pouco intensa</string>
+    <string name="weather_condition_lightssleetshowersandthunder">Neve molhada pouco Intensa e trovões</string>
+    <string name="weather_condition_snowandthunder">Neve e trovões</string>
+    <string name="weather_condition_heavysleetshowers">Neve molhada intensa</string>
+    <string name="weather_condition_heavysnow">Neve intensa</string>
+    <string name="weather_condition_cloudy">Nublado</string>
+    <string name="weather_condition_lightrainandthunder">Chuva leve e trovões</string>
+    <string name="weather_condition_snow">Neve</string>
+    <string name="weather_condition_hail">Granizo</string>
+    <string name="weather_condition_heavysnowshowers">Neve intensa</string>
+    <string name="weather_condition_heavyrainshowers">Chuva intensa</string>
+    <string name="weather_condition_rainshowersandthunder">Chuva e trovões</string>
+    <string name="weather_condition_clearsky">Céu limpo</string>
+    <string name="weather_condition_sleet">Neve molhada</string>
+    <string name="weather_condition_rain">Chuva</string>
+    <string name="weather_condition_sleetandthunder">Neve molhada e trovões</string>
+    <string name="weather_condition_lightssnowshowersandthunder">Neve pouco intensa e trovões</string>
+    <string name="weather_condition_heavyrainshowersandthunder">Chuva intensa e trovões</string>
+    <string name="weather_condition_fair">Tempo firme</string>
+    <string name="weather_condition_fog">Névoa</string>
+    <string name="weather_condition_sleetshowersandthunder">Chuva com neve e trovoadas</string>
+    <string name="weather_condition_rainandthunder">Chuva e trovões</string>
+    <string name="weather_condition_lightsleet">Neve molhada pouco intensa</string>
+    <string name="weather_condition_heavysleetandthunder">Neve molhada intensa</string>
+    <string name="weather_condition_partlycloudy">Parcialmente</string>
+    <string name="weather_condition_heavysnowandthunder">Neve intensa e trovões</string>
+    <string name="weather_condition_rainshowers">Chuva leve</string>
+    <string name="weather_condition_lightsleetandthunder">Neve molhada leve e trovões</string>
+    <string name="weather_condition_heavysnowshowersandthunder">Neve intensa e trovões</string>
+    <string name="weather_condition_lightsleetshowers">Neve molhada pouco intensa</string>
+    <string name="weather_condition_snowshowersandthunder">Neve e trovões</string>
+    <string name="weather_condition_snowshowers">Neve pouco intensa</string>
+    <string name="weather_condition_heavyrainandthunder">Chuva intensa e trovões</string>
+    <string name="weather_condition_wind">Vento</string>
+    <string name="weather_condition_unknown">Desconhecido</string>
+</resources>
