@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <queries>
+        <package android:name="org.breezyweather" />
+    </queries>
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        tools:targetApi="31">
+        <meta-data
+            android:name="de.mm20.launcher2.plugin.label"
+            android:value="@string/plugin_package_name" />
+        <meta-data
+            android:name="de.mm20.launcher2.plugin.description"
+            android:value="@string/plugin_package_description" />
+        <meta-data
+            android:name="de.mm20.launcher2.plugin.icon"
+            android:resource="@drawable/ic_breezy_weather" />
+
+        <activity android:name=".BreezyWeatherTrampolineActivity" android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="de.mm20.launcher.plugin.breezyweather" />
+            </intent-filter>
+        </activity>
+
+        <receiver
+            android:name=".receivers.WeatherReceiver"
+            android:exported="true"
+            tools:ignore="ExportedReceiver">
+            <intent-filter>
+                <action android:name="nodomain.freeyourgadget.gadgetbridge.ACTION_GENERIC_WEATHER" />
+            </intent-filter>
+        </receiver>
+
+        <provider
+            android:name=".BreezyWeatherProvider"
+            android:authorities="de.mm20.launcher2.plugin.breezyweather.weather"
+            android:exported="true"
+            android:icon="@drawable/ic_breezy_weather"
+            android:label="@string/plugin_package_name">
+            <intent-filter>
+                <action android:name="de.mm20.launcher2.action.PLUGIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </provider>
+    </application>
+
+</manifest>

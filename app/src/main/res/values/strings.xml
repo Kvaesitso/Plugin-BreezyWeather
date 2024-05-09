@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Kvaesitso Breezy Weather Plugin</string>
+
+    <string name="plugin_package_name">Breezy Weather integration</string>
+    <string name="plugin_package_description">Forwards weather data from Breezy Weather</string>
+    <string name="plugin_name">Breezy Weather</string>
+
+    <string name="plugin_state_breezyweather_not_installed">Breezy Weather is not installed.</string>
+    <string name="plugin_state_data_sharing_not_enabled">Enable data sharing in Breezy Weather to use this plugin.</string>
+
+    <string name="weather_condition_sleetshowers">Sleet showers</string>
+    <string name="weather_condition_heavysleet">Heavy sleet</string>
+    <string name="weather_condition_lightrainshowersandthunder">Light rain showers and thunder</string>
+    <string name="weather_condition_heavyrain">Heavy rain</string>
+    <string name="weather_condition_lightsnowandthunder">Light snow and thunder</string>
+    <string name="weather_condition_lightrain">Light rain</string>
+    <string name="weather_condition_lightrainshowers">Light rain showers</string>
+    <string name="weather_condition_lightsnow">Light snow</string>
+    <string name="weather_condition_heavysleetshowersandthunder">Heavy sleet showers and thunder</string>
+    <string name="weather_condition_lightsnowshowers">Light snow showers</string>
+    <string name="weather_condition_lightssleetshowersandthunder">Lights sleet showers and thunder</string>
+    <string name="weather_condition_snowandthunder">Snow and thunder</string>
+    <string name="weather_condition_heavysleetshowers">Heavy sleet showers</string>
+    <string name="weather_condition_heavysnow">Heavy snow</string>
+    <string name="weather_condition_cloudy">Cloudy</string>
+    <string name="weather_condition_lightrainandthunder">Light rain and thunder</string>
+    <string name="weather_condition_snow">Snow</string>
+    <string name="weather_condition_hail">Hail</string>
+    <string name="weather_condition_thunder">Thunder</string>
+    <string name="weather_condition_thunderstorm">Thunderstorm</string>
+    <string name="weather_condition_heavysnowshowers">Heavy snow showers</string>
+    <string name="weather_condition_heavyrainshowers">Heavy rain showers</string>
+    <string name="weather_condition_rainshowersandthunder">Rain showers and thunder</string>
+    <string name="weather_condition_clearsky">Clear sky</string>
+    <string name="weather_condition_sleet">Sleet</string>
+    <string name="weather_condition_rain">Rain</string>
+    <string name="weather_condition_sleetandthunder">Sleet and thunder</string>
+    <string name="weather_condition_lightssnowshowersandthunder">Lights snow showers and thunder</string>
+    <string name="weather_condition_heavyrainshowersandthunder">Heavy rain showers and thunder</string>
+    <string name="weather_condition_fair">Fair</string>
+    <string name="weather_condition_fog">Fog</string>
+    <string name="weather_condition_haze">Haze</string>
+    <string name="weather_condition_sleetshowersandthunder">Sleet showers and thunder</string>
+    <string name="weather_condition_rainandthunder">Rain and thunder</string>
+    <string name="weather_condition_lightsleet">Light sleet</string>
+    <string name="weather_condition_heavysleetandthunder">Heavy sleet and thunder</string>
+    <string name="weather_condition_partlycloudy">Partly cloudy</string>
+    <string name="weather_condition_heavysnowandthunder">Heavy snow and thunder</string>
+    <string name="weather_condition_rainshowers">Rain showers</string>
+    <string name="weather_condition_lightsleetandthunder">Light sleet and thunder</string>
+    <string name="weather_condition_heavysnowshowersandthunder">Heavy snow showers and thunder</string>
+    <string name="weather_condition_lightsleetshowers">Light sleet showers</string>
+    <string name="weather_condition_snowshowersandthunder">Snow showers and thunder</string>
+    <string name="weather_condition_snowshowers">Snow showers</string>
+    <string name="weather_condition_heavyrainandthunder">Heavy rain and thunder</string>
+    <string name="weather_condition_wind">Wind</string>
+    <string name="weather_condition_unknown">Unknown</string>
+</resources>
