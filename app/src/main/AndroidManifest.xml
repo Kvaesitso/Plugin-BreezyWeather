@@ -21,6 +21,9 @@
             android:name="de.mm20.launcher2.plugin.description"
             android:value="@string/plugin_package_description" />
         <meta-data
+            android:name="de.mm20.launcher2.plugin.author"
+            android:value="MM20" />
+        <meta-data
             android:name="de.mm20.launcher2.plugin.icon"
             android:resource="@drawable/ic_breezy_weather" />
 
@@ -47,7 +50,7 @@
             android:authorities="de.mm20.launcher2.plugin.breezyweather.weather"
             android:exported="true"
             android:icon="@drawable/ic_breezy_weather"
-            android:label="@string/plugin_package_name">
+            android:label="@string/plugin_name">
             <intent-filter>
                 <action android:name="de.mm20.launcher2.action.PLUGIN" />
                 <category android:name="android.intent.category.DEFAULT" />
