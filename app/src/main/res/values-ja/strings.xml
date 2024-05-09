@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="weather_condition_snow">雪</string>
+    <string name="weather_condition_hail">雹</string>
+    <string name="weather_condition_clearsky">快晴</string>
+    <string name="weather_condition_rain">雨</string>
+    <string name="weather_condition_fog">霧</string>
+    <string name="weather_condition_rainandthunder">雷雨</string>
+    <string name="weather_condition_wind">風</string>
+    <string name="weather_condition_unknown">不明</string>
+</resources>
