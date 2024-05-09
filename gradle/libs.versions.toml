@@ -4,7 +4,7 @@ kotlin = "1.9.24"
 coreKtx = "1.13.1"
 lifecycleRuntimeKtx = "2.7.0"
 kotlinSerialization = "1.6.3"
-launcherSdk = "1.1.0"
+launcherSdk = "1.1.1"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }

@@ -3,7 +3,6 @@ package de.mm20.launcher2.plugin.breezyweather
 import android.content.Context
 import android.content.Intent
 import android.content.pm.PackageManager
-import android.net.Uri
 import android.util.Log
 import androidx.core.net.toUri
 import de.mm20.launcher2.plugin.breezyweather.data.WeatherData
@@ -77,12 +76,43 @@ class BreezyWeatherProvider : WeatherProvider(
             rainProbability = data.precipProbability,
             windDirection = data.windDirection?.toDouble(),
             createdAt = lastUpdate,
-            providerUrl = "de.mm20.launcher.plugin.breezyweather://-"
+            providerUrl = "de.mm20.launcher.plugin.breezyweather://-",
+            night = isNight(
+                data.timestamp.times(1000L),
+                data.sunRise?.times(1000L),
+                data.sunSet?.times(1000L)
+            )
         )
 
+        val sunrises = buildList {
+            if (data.sunRise != null) add(data.sunRise.times(1000L))
+            if (data.forecasts != null) addAll(data.forecasts.mapNotNull { it.sunRise?.times(1000L) })
+        }.sorted()
+
+        val sunsets = buildList {
+            if (data.sunSet != null) add(data.sunSet.times(1000L))
+            if (data.forecasts != null) addAll(data.forecasts.mapNotNull { it.sunSet?.times(1000L) })
+        }.sorted()
+
+
         for (hourly in data.hourly ?: emptyList()) {
+            val timestamp = hourly.timestamp?.times(1000L) ?: continue
+
+            val lastSunrise = sunrises.findLast { it < timestamp }
+            val lastSunset = sunsets.findLast { it < timestamp }
+            val nextSunrise = sunrises.find { it > timestamp }
+            val nextSunset = sunsets.find { it > timestamp }
+
+            val isNight = when {
+                lastSunrise != null && lastSunset != null -> lastSunrise < lastSunset
+                nextSunrise != null && nextSunset != null -> nextSunrise < nextSunset
+                lastSunset != null && lastSunrise == null -> true
+                nextSunrise != null && nextSunset == null -> true
+                else -> false
+            }
+
             result += Forecast(
-                timestamp = hourly.timestamp?.times(1000L) ?: continue,
+                timestamp = timestamp,
                 temperature = hourly.temp?.toDouble()?.K ?: continue,
                 icon = iconForId(hourly.conditionCode ?: continue),
                 condition = textForId(hourly.conditionCode) ?: continue,
@@ -93,7 +123,8 @@ class BreezyWeatherProvider : WeatherProvider(
                 rainProbability = hourly.precipProbability,
                 windDirection = hourly.windDirection?.toDouble(),
                 createdAt = lastUpdate,
-                providerUrl = "de.mm20.launcher.plugin.breezyweather://-"
+                providerUrl = "de.mm20.launcher.plugin.breezyweather://-",
+                night = isNight
             )
         }
 
@@ -177,5 +208,9 @@ class BreezyWeatherProvider : WeatherProvider(
         } catch (e: PackageManager.NameNotFoundException) {
             false
         }
+    }
+
+    private fun isNight(timestamp: Long, sunrise: Long?, sunset: Long?): Boolean {
+        return (sunrise != null && timestamp < sunrise) || (sunset != null && timestamp > sunset)
     }
 }
