@@ -1,2 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="weather_condition_sleetshowers">Χιονόνερο</string>
+    <string name="weather_condition_heavysleet">Βαρύ χιονόνερο</string>
+    <string name="weather_condition_lightrainshowersandthunder">Ασθενείς βροχές και κεραυνοί</string>
+    <string name="weather_condition_heavyrain">Δυνατή βροχή</string>
+    <string name="weather_condition_lightsnowandthunder">Ασθενές χιόνι και κεραυνοί</string>
+    <string name="weather_condition_lightrain">Ασθενής βροχή</string>
+    <string name="weather_condition_lightrainshowers">Ασθενείς βροχές</string>
+    <string name="weather_condition_lightsnow">Ελαφρύ χιόνι</string>
+    <string name="weather_condition_heavysleetshowersandthunder">Σφοδρές βροχές και κεραυνοί</string>
+    <string name="weather_condition_lightsnowshowers">Ασθενείς χιονοπτώσεις</string>
+    <string name="weather_condition_lightssleetshowersandthunder">Ασθενές χιονόνερο και κεραυνοί</string>
+    <string name="weather_condition_snowandthunder">Χιόνι και κεραυνοί</string>
+    <string name="weather_condition_heavysleetshowers">Έντονο χιονόνερο</string>
+    <string name="weather_condition_heavysnow">Έντονη χιονόπτωση</string>
+    <string name="weather_condition_cloudy">Συννεφιά</string>
+    <string name="weather_condition_lightrainandthunder">Ασθενής βροχή και κεραυνοί</string>
+    <string name="weather_condition_snow">Χιόνι</string>
+    <string name="weather_condition_hail">Χαλάζι</string>
+    <string name="weather_condition_heavysnowshowers">Έντονες χιονοπτώσεις</string>
+    <string name="weather_condition_heavyrainshowers">Έντονες βροχοπτώσεις</string>
+    <string name="weather_condition_rainshowersandthunder">Βροχές και κεραυνοί</string>
+    <string name="weather_condition_clearsky">Καθαρός ουρανός</string>
+    <string name="weather_condition_sleet">Χιονόνερο</string>
+    <string name="weather_condition_rain">Βροχή</string>
+    <string name="weather_condition_sleetandthunder">Χιονόνερο και κεραυνοί</string>
+    <string name="weather_condition_lightssnowshowersandthunder">Ασθενείς χιονοπτώσεις και κεραυνοί</string>
+    <string name="weather_condition_heavyrainshowersandthunder">Έντονες βροχοπτώσεις και κεραυνοί</string>
+    <string name="weather_condition_fair">Καλοκαιρία</string>
+    <string name="weather_condition_fog">Ομίχλη</string>
+    <string name="weather_condition_sleetshowersandthunder">Χιονόνερο και κεραυνοί</string>
+    <string name="weather_condition_rainandthunder">Βροχές και κεραυνοί</string>
+    <string name="weather_condition_lightsleet">Ελαφρύ χιονόνερο</string>
+    <string name="weather_condition_heavysleetandthunder">Έντονο χιονόνερο και κεραυνοί</string>
+    <string name="weather_condition_partlycloudy">Μερική συννεφιά</string>
+    <string name="weather_condition_heavysnowandthunder">Έντονη χιονόπτωση και κεραυνοί</string>
+    <string name="weather_condition_rainshowers">Βροχοπτώσεις</string>
+    <string name="weather_condition_lightsleetandthunder">Ελαφρύ χιονόνερο και κεραυνοί</string>
+    <string name="weather_condition_heavysnowshowersandthunder">Έντονες χιονοπτώσεις και κεραυνοί</string>
+    <string name="weather_condition_lightsleetshowers">Ελαφρύ χιονόνερο</string>
+    <string name="weather_condition_snowshowersandthunder">Χιονοπτώσεις και κεραυνοί</string>
+    <string name="weather_condition_snowshowers">Χιονοπτώσεις</string>
+    <string name="weather_condition_heavyrainandthunder">Έντονη βροχόπτωση και κεραυνοί</string>
+    <string name="weather_condition_wind">Άνεμος</string>
+    <string name="weather_condition_unknown">Άγνωστο</string>
+</resources>
