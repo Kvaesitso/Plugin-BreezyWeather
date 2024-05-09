@@ -1,2 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="weather_condition_sleetshowers">Schneeregenschauer</string>
+    <string name="app_name">Kvaesitso Breezy Weather Plugin</string>
+    <string name="plugin_package_name">Breezy Weather-Integration</string>
+    <string name="plugin_name">Breezy Weather</string>
+    <string name="plugin_state_breezyweather_not_installed">Breezy Weather ist nicht installiert.</string>
+    <string name="plugin_state_data_sharing_not_enabled">Datenübertragung in Breezy Weather aktivieren, um dieses Plugin zu nutzen.</string>
+    <string name="weather_condition_thunder">Donner</string>
+    <string name="weather_condition_thunderstorm">Gewitter</string>
+    <string name="weather_condition_haze">Dunst</string>
+    <string name="plugin_package_description">Leitet Wetterdaten von Breezy Weather an Kvaesitso weiter</string>
+    <string name="weather_condition_heavysleet">Starker Schneeregen</string>
+    <string name="weather_condition_lightrainshowersandthunder">Leichte Regenschauer und Gewitter</string>
+    <string name="weather_condition_heavyrain">Starkregen</string>
+    <string name="weather_condition_lightsnowandthunder">Leichter Schneefall und Gewitter</string>
+    <string name="weather_condition_lightrain">Leichter Regen</string>
+    <string name="weather_condition_lightrainshowers">Leichte Regenschauer</string>
+    <string name="weather_condition_lightsnow">Leichter Schnee</string>
+    <string name="weather_condition_heavysleetshowersandthunder">Starke Schneeregenschauer und Gewitter</string>
+    <string name="weather_condition_lightsnowshowers">Leichte Schneeschauer</string>
+    <string name="weather_condition_lightssleetshowersandthunder">Leichte Schneeregenschauer und Gewitter</string>
+    <string name="weather_condition_snowandthunder">Schneefall und Gewitter</string>
+    <string name="weather_condition_heavysleetshowers">Starke Schneeregenschauer</string>
+    <string name="weather_condition_heavysnow">Starker Schneefall</string>
+    <string name="weather_condition_cloudy">Bedeckt</string>
+    <string name="weather_condition_lightrainandthunder">Leichter Regen und Gewitter</string>
+    <string name="weather_condition_snow">Schneefall</string>
+    <string name="weather_condition_hail">Hagel</string>
+    <string name="weather_condition_heavysnowshowers">Starke Schneeschauer</string>
+    <string name="weather_condition_heavyrainshowers">Starke Regenschauer</string>
+    <string name="weather_condition_rainshowersandthunder">Regenschauer und Gewitter</string>
+    <string name="weather_condition_clearsky">Klarer Himmel</string>
+    <string name="weather_condition_sleet">Schneeregen</string>
+    <string name="weather_condition_rain">Regen</string>
+    <string name="weather_condition_sleetandthunder">Schneeregen und Gewitter</string>
+    <string name="weather_condition_lightssnowshowersandthunder">Leichte Schneeschauer und Gewitter</string>
+    <string name="weather_condition_heavyrainshowersandthunder">Starke Regenschauer und Gewitter</string>
+    <string name="weather_condition_fair">Heiter</string>
+    <string name="weather_condition_fog">Nebel</string>
+    <string name="weather_condition_sleetshowersandthunder">Schneeregenschauer und Gewitter</string>
+    <string name="weather_condition_rainandthunder">Regen und Gewitter</string>
+    <string name="weather_condition_lightsleet">Leichter Schneeregen</string>
+    <string name="weather_condition_heavysleetandthunder">Starker Schneeregen und Gewitter</string>
+    <string name="weather_condition_partlycloudy">Teilweise bewölkt</string>
+    <string name="weather_condition_heavysnowandthunder">Starker Schneefall und Gewitter</string>
+    <string name="weather_condition_rainshowers">Regenschauer</string>
+    <string name="weather_condition_lightsleetandthunder">Leichter Schneeregen und Gewitter</string>
+    <string name="weather_condition_heavysnowshowersandthunder">Starke Schneeschauer und Gewitter</string>
+    <string name="weather_condition_lightsleetshowers">Leichte Schneeschauer</string>
+    <string name="weather_condition_snowshowersandthunder">Schneeschauer und Gewitter</string>
+    <string name="weather_condition_snowshowers">Schneeschauer</string>
+    <string name="weather_condition_heavyrainandthunder">Starkregen und Gewitter</string>
+    <string name="weather_condition_wind">Wind</string>
+    <string name="weather_condition_unknown">Unbekannt</string>
+</resources>
