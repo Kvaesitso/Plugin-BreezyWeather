@@ -1,2 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="weather_condition_hail">শিলা</string>
+    <string name="weather_condition_sleetshowers">শিলা বৃষ্টি</string>
+    <string name="weather_condition_heavysleet">প্রচণ্ড শিলা</string>
+    <string name="weather_condition_lightrainshowersandthunder">হালকা বৃষ্টি এবং বজ্রপাত</string>
+    <string name="weather_condition_heavyrain">প্রচণ্ড বর্ষণ</string>
+    <string name="weather_condition_lightsnowandthunder">হালকা তুষারপাত এবং বজ্রপাত</string>
+    <string name="weather_condition_lightrain">হালকা বর্ষণ</string>
+    <string name="weather_condition_lightrainshowers">গুঁড়ি-গুঁড়ি বৃষ্টি</string>
+    <string name="weather_condition_lightsnow">হালকা তুষারপাত</string>
+    <string name="weather_condition_heavysleetshowersandthunder">প্রচণ্ড শিলা বৃষ্টি এবং বজ্রপাত</string>
+    <string name="weather_condition_lightsnowshowers">হালকা তুষারপাত বর্ষণ</string>
+    <string name="weather_condition_lightssleetshowersandthunder">হালকা শিলা বৃষ্টি এবং বজ্রপাত</string>
+    <string name="weather_condition_snowandthunder">তুষারপাত এবং বজ্রপাত</string>
+    <string name="weather_condition_heavysleetshowers">প্রচণ্ড শিলা বৃষ্টি</string>
+    <string name="weather_condition_heavysnow">প্রচণ্ড তুষারপাত</string>
+    <string name="weather_condition_cloudy">মেঘাচ্ছন্ন</string>
+    <string name="weather_condition_lightrainandthunder">হালকা বর্ষণ এবং বজ্রপাত</string>
+    <string name="weather_condition_snow">তুষার</string>
+    <string name="weather_condition_heavysnowshowers">প্রচণ্ড তুষার বর্ষণ</string>
+    <string name="weather_condition_heavyrainshowers">প্রচণ্ড বৃষ্টিপাত</string>
+    <string name="weather_condition_rainshowersandthunder">বৃষ্টিপাত এবং বজ্রপাত</string>
+    <string name="weather_condition_clearsky">পরিষ্কার আকাশ</string>
+    <string name="weather_condition_sleet">তুষার ও বৃষ্টি</string>
+    <string name="weather_condition_rain">বর্ষা</string>
+    <string name="weather_condition_sleetandthunder">তুষার, বৃষ্টি এবং বজ্রপাত</string>
+    <string name="weather_condition_lightssnowshowersandthunder">হালকা তুষার এবং বজ্রপাত</string>
+    <string name="weather_condition_heavyrainshowersandthunder">প্রচণ্ড বর্ষণ এবং বজ্রপাত</string>
+    <string name="weather_condition_fair">পরিষ্কার</string>
+    <string name="weather_condition_fog">কুয়াশা</string>
+    <string name="weather_condition_sleetshowersandthunder">তুষার বৃষ্টি এবং বজ্রপাত</string>
+    <string name="weather_condition_rainandthunder">বর্ষা এবং বজ্রপাত</string>
+    <string name="weather_condition_lightsleet">হালকা তুষার বৃষ্টি</string>
+    <string name="weather_condition_heavysleetandthunder">প্রচণ্ড তুষার বৃষ্টি এবং বজ্রপাত</string>
+    <string name="weather_condition_partlycloudy">আংশিক মেঘাচ্ছন্ন</string>
+    <string name="weather_condition_heavysnowandthunder">প্রচণ্ড তুষার এবং বজ্রপাত</string>
+    <string name="weather_condition_rainshowers">বৃষ্টি</string>
+    <string name="weather_condition_lightsleetandthunder">হালকা তুষার বৃষ্টি এবং বজ্রপাত</string>
+</resources>
