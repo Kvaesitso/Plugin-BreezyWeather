@@ -1,2 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="weather_condition_sleetshowers">Šlapdriba</string>
+    <string name="weather_condition_heavysleet">Stipri šlapdriba</string>
+    <string name="weather_condition_lightrainshowersandthunder">Lengvas lietus ir griaustinis</string>
+    <string name="weather_condition_heavyrain">Stiprus lietus</string>
+    <string name="weather_condition_lightsnowandthunder">Lengvas lietus ir griaustinis</string>
+    <string name="weather_condition_lightrain">Lengvas lietus</string>
+    <string name="weather_condition_lightrainshowers">Lengvas lietus</string>
+    <string name="weather_condition_lightsnow">Lengvas sniegas</string>
+    <string name="weather_condition_heavysleetshowersandthunder">Stipri šlapdriba ir griaustinis</string>
+    <string name="weather_condition_lightsnowshowers">Lengvas sniegas</string>
+    <string name="weather_condition_lightssleetshowersandthunder">Lengva šlapdriba ir griaustinis</string>
+    <string name="weather_condition_snowandthunder">Sniegas ir griaustinis</string>
+    <string name="weather_condition_heavysleetshowers">Stipri šlapdriba</string>
+    <string name="weather_condition_heavysnow">Stiprus sniegas</string>
+    <string name="weather_condition_cloudy">Debesuota</string>
+    <string name="weather_condition_lightrainandthunder">Lengvas lietus ir griaustinis</string>
+    <string name="weather_condition_snow">Sniegas</string>
+    <string name="weather_condition_hail">Kruša</string>
+    <string name="weather_condition_heavysnowshowers">Stiprus sniegas</string>
+    <string name="weather_condition_heavyrainshowers">Stiprus lietus</string>
+    <string name="weather_condition_rainshowersandthunder">Lietus ir griaustinis</string>
+    <string name="weather_condition_clearsky">Mėlynas dangus</string>
+    <string name="weather_condition_sleet">Šlapdriba</string>
+    <string name="weather_condition_rain">Lietus</string>
+    <string name="weather_condition_sleetandthunder">Šlapdriba ir griaustinis</string>
+    <string name="weather_condition_lightssnowshowersandthunder">Lengvas sniegas ir griaustinis</string>
+    <string name="weather_condition_heavyrainshowersandthunder">Stiprus lietus ir griaustinis</string>
+    <string name="weather_condition_fair">Šviesus</string>
+    <string name="weather_condition_fog">Rūkas</string>
+    <string name="weather_condition_sleetshowersandthunder">Šlapdriba ir griaustinis</string>
+    <string name="weather_condition_rainandthunder">Lietus ir griaustinis</string>
+    <string name="weather_condition_lightsleet">Lengva šlapdriba</string>
+    <string name="weather_condition_heavysleetandthunder">Stipri šlapdriba ir griaustinis</string>
+    <string name="weather_condition_partlycloudy">Dalinai debesuota</string>
+    <string name="weather_condition_heavysnowandthunder">Stiprus sniegas ir griaustinis</string>
+    <string name="weather_condition_rainshowers">Lietus</string>
+    <string name="weather_condition_lightsleetandthunder">Lengva šlapdriba ir griaustinis</string>
+    <string name="weather_condition_heavysnowshowersandthunder">Stiprus sniegas ir griaustinis</string>
+    <string name="weather_condition_lightsleetshowers">Lengva šlapdriba</string>
+    <string name="weather_condition_snowshowersandthunder">Sniegas ir griaustinis</string>
+    <string name="weather_condition_snowshowers">Sniegas</string>
+    <string name="weather_condition_heavyrainandthunder">Stiprus lietus ir griaustinis</string>
+    <string name="weather_condition_wind">Vėjas</string>
+    <string name="weather_condition_unknown">Nežinoma</string>
+</resources>
