@@ -1,2 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="weather_condition_snow">Lumisadetta</string>
+    <string name="weather_condition_snowshowers">Lumikuuroja</string>
+    <string name="weather_condition_sleetshowers">Räntäkuuroja</string>
+    <string name="weather_condition_heavysleet">Räntää</string>
+    <string name="weather_condition_lightrainshowersandthunder">Pieniä sadekuuroja ja ukkosta</string>
+    <string name="weather_condition_heavyrain">Kovaa sadetta</string>
+    <string name="weather_condition_lightsnowandthunder">Pientä lumisadetta ja ukkosta</string>
+    <string name="weather_condition_lightrain">Tihkusadetta</string>
+    <string name="weather_condition_lightrainshowers">Kuuroittaista tihkua</string>
+    <string name="weather_condition_lightsnow">Kevyt lumisade</string>
+    <string name="weather_condition_heavysleetshowersandthunder">Kovaa räntäsadetta ja ukkosta</string>
+    <string name="weather_condition_lightsnowshowers">Kevyitä lumikuuroja</string>
+    <string name="weather_condition_lightssleetshowersandthunder">Kevyitä räntäkuuroja ja ukkosta</string>
+    <string name="weather_condition_snowandthunder">Lumisadetta ja ukkosta</string>
+    <string name="weather_condition_heavysleetshowers">Kovia räntäkuuroja</string>
+    <string name="weather_condition_heavysnow">Runsasta lumisadetta</string>
+    <string name="weather_condition_cloudy">Pilvistä</string>
+    <string name="weather_condition_lightrainandthunder">Tihkusadetta ja ukkosta</string>
+    <string name="weather_condition_hail">Rakeita</string>
+    <string name="weather_condition_heavysnowshowers">Runsaita lumikuuroja</string>
+    <string name="weather_condition_heavyrainshowers">Kovia sadekuuroja</string>
+    <string name="weather_condition_rainshowersandthunder">Sadekuuroja ja ukkosta</string>
+    <string name="weather_condition_clearsky">Selkeää</string>
+    <string name="weather_condition_sleet">Räntää</string>
+    <string name="weather_condition_rain">Sadetta</string>
+    <string name="weather_condition_sleetandthunder">Räntää ja ukkosta</string>
+    <string name="weather_condition_lightssnowshowersandthunder">Kevyitä lumikuuroja ja ukkosta</string>
+    <string name="weather_condition_heavyrainshowersandthunder">Kovia sadekuuroja ja ukkosta</string>
+    <string name="weather_condition_fair">Poutaa</string>
+    <string name="weather_condition_fog">Sumua</string>
+    <string name="weather_condition_sleetshowersandthunder">Räntäkuuroja ja ukkosta</string>
+    <string name="weather_condition_rainandthunder">Sadetta ja ukkosta</string>
+    <string name="weather_condition_lightsleet">Kevyttä räntää</string>
+    <string name="weather_condition_heavysleetandthunder">Kovaa räntäsadetta ja ukkosta</string>
+    <string name="weather_condition_partlycloudy">Osittain pilvistä</string>
+    <string name="weather_condition_heavysnowandthunder">Runsasta lumisadetta ja ukkosta</string>
+    <string name="weather_condition_rainshowers">Sadekuuroja</string>
+    <string name="weather_condition_lightsleetandthunder">Kevyttä räntää ja ukkosta</string>
+    <string name="weather_condition_heavysnowshowersandthunder">Runsaita lumikuuroja ja ukkosta</string>
+    <string name="weather_condition_lightsleetshowers">Kevyitä räntäkuuroja</string>
+    <string name="weather_condition_snowshowersandthunder">Lumikuuroja ja ukkosta</string>
+    <string name="weather_condition_heavyrainandthunder">Kovaa sadetta ja ukkosta</string>
+    <string name="weather_condition_wind">Tuuli</string>
+    <string name="weather_condition_unknown">Tuntematon</string>
+</resources>
