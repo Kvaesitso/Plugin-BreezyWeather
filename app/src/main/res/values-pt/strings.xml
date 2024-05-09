@@ -1,2 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="weather_condition_wind">Ventoso</string>
+    <string name="weather_condition_lightrainshowersandthunder">Aguaceiros e trovoada</string>
+    <string name="weather_condition_heavyrain">Chuva forte</string>
+    <string name="weather_condition_lightsnowandthunder">Neve ligeira e trovoada</string>
+    <string name="weather_condition_lightrain">Chuva ligeira</string>
+    <string name="weather_condition_lightrainshowers">Aguaceiros ligeiros</string>
+    <string name="weather_condition_lightsnow">Neve ligeira</string>
+    <string name="weather_condition_lightsnowshowers">Nevascas leves</string>
+    <string name="weather_condition_snowandthunder">Neve e trovoada</string>
+    <string name="weather_condition_heavysnow">Neve intensa</string>
+    <string name="weather_condition_cloudy">Nublado</string>
+    <string name="weather_condition_lightrainandthunder">Chuva ligeira e trovoada</string>
+    <string name="weather_condition_snow">Neve</string>
+    <string name="weather_condition_hail">Granizo</string>
+    <string name="weather_condition_clearsky">Céu limpo</string>
+    <string name="weather_condition_rain">Chuva</string>
+    <string name="weather_condition_fair">Ameno</string>
+    <string name="weather_condition_fog">Nevoeiro</string>
+    <string name="weather_condition_rainandthunder">Chuva e trovoada</string>
+    <string name="weather_condition_partlycloudy">Parcialmente nublado</string>
+    <string name="weather_condition_heavysnowandthunder">Neve intensa e trovoada</string>
+    <string name="weather_condition_rainshowers">Aguaceiros</string>
+    <string name="weather_condition_heavyrainandthunder">Chuva intensa e trovoada</string>
+    <string name="weather_condition_unknown">Desconhecido</string>
+</resources>
