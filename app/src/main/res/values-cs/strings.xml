@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="weather_condition_sleetshowers">Sněhové přeháňky</string>
-    <string name="weather_condition_heavysleet">Silné sněžení</string>
+    <string name="weather_condition_sleetshowers">Přeháňky mokrého sněhu</string>
+    <string name="weather_condition_heavysleet">Silné mokré sněžení</string>
     <string name="weather_condition_lightrainshowersandthunder">Slabé dešťové přeháňky a bouřky</string>
     <string name="weather_condition_heavyrain">Silný déšť</string>
     <string name="weather_condition_lightsnowandthunder">Slabé sněžení a bouřka</string>
@@ -12,7 +12,7 @@
     <string name="weather_condition_lightsnowshowers">Slabé sněhové přeháňky</string>
     <string name="weather_condition_lightssleetshowersandthunder">Slabé sněhové přeháňky a bouřky</string>
     <string name="weather_condition_snowandthunder">Sníh a bouřka</string>
-    <string name="weather_condition_heavysleetshowers">Silné sněhové přeháňky</string>
+    <string name="weather_condition_heavysleetshowers">Silné přeháňky mokrého sněhu</string>
     <string name="weather_condition_heavysnow">Silné sněžení</string>
     <string name="weather_condition_cloudy">Oblačno</string>
     <string name="weather_condition_lightrainandthunder">Slabý déšť a bouřka</string>
@@ -20,7 +20,7 @@
     <string name="weather_condition_hail">Kroupy</string>
     <string name="weather_condition_heavysnowshowers">Silné sněhové přeháňky</string>
     <string name="weather_condition_heavyrainshowers">Silné přeháňky</string>
-    <string name="weather_condition_rainshowersandthunder">Sněhové přeháňky a bouřka</string>
+    <string name="weather_condition_rainshowersandthunder">Dešťové přeháňky a bouřky</string>
     <string name="weather_condition_clearsky">Čistá obloha</string>
     <string name="weather_condition_sleet">Sněžení</string>
     <string name="weather_condition_rain">Déšť</string>
@@ -29,19 +29,28 @@
     <string name="weather_condition_heavyrainshowersandthunder">Silné přeháňky a bouřka</string>
     <string name="weather_condition_fair">Jasno</string>
     <string name="weather_condition_fog">Mlha</string>
-    <string name="weather_condition_sleetshowersandthunder">Sněhové přeháňky a bouřka</string>
+    <string name="weather_condition_sleetshowersandthunder">Přeháňky mokrého sněhu a bouřky</string>
     <string name="weather_condition_rainandthunder">Déšť a bouřka</string>
-    <string name="weather_condition_lightsleet">Slabé sněžení</string>
-    <string name="weather_condition_heavysleetandthunder">Silné sněžení a bouřka</string>
+    <string name="weather_condition_lightsleet">Slabé mokré sněžení</string>
+    <string name="weather_condition_heavysleetandthunder">Silné mokré sněžení a bouřky</string>
     <string name="weather_condition_partlycloudy">Částečně zataženo</string>
-    <string name="weather_condition_heavysnowandthunder">Silné sněžení a bouřka</string>
+    <string name="weather_condition_heavysnowandthunder">Silné sněžení a bouřky</string>
     <string name="weather_condition_rainshowers">Přeháňky</string>
-    <string name="weather_condition_lightsleetandthunder">Slabé sněžení a bouřka</string>
+    <string name="weather_condition_lightsleetandthunder">Slabé mokré sněžení a bouřky</string>
     <string name="weather_condition_heavysnowshowersandthunder">Silné sněhové přeháňky a bouřka</string>
-    <string name="weather_condition_lightsleetshowers">Slabé sněhové přeháňky</string>
-    <string name="weather_condition_snowshowersandthunder">Sněhové přeháňky a bouřka</string>
+    <string name="weather_condition_lightsleetshowers">Slabé přeháňky mokrého sněhu</string>
+    <string name="weather_condition_snowshowersandthunder">Sněhové přeháňky a bouřky</string>
     <string name="weather_condition_snowshowers">Sněhové přeháňky</string>
     <string name="weather_condition_heavyrainandthunder">Silný déšť a bouřka</string>
     <string name="weather_condition_wind">Vítr</string>
     <string name="weather_condition_unknown">Neznámé</string>
+    <string name="app_name">Doplněk Kvaesitso pro Breezy Weather</string>
+    <string name="plugin_package_name">Integrace Breezy Weather</string>
+    <string name="plugin_package_description">Posílá data z aplikace Breezy Weather do Kvaesitso</string>
+    <string name="plugin_name">Breezy Weather</string>
+    <string name="plugin_state_breezyweather_not_installed">Aplikace Breezy Weather není nainstalována.</string>
+    <string name="weather_condition_thunder">Hřmění</string>
+    <string name="weather_condition_thunderstorm">Bouřka</string>
+    <string name="weather_condition_haze">Opar</string>
+    <string name="plugin_state_data_sharing_not_enabled">Pro použití tohoto doplňku povolte sdílení dat v aplikaci Breezy Weather.</string>
 </resources>
