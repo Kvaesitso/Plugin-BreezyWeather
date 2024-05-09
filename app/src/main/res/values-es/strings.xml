@@ -1,2 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="weather_condition_sleetshowers">Chubascos de aguanieve</string>
+    <string name="weather_condition_heavysleet">Aguanieve pesada</string>
+    <string name="weather_condition_lightrainshowersandthunder">Chubascos ligeros y truenos</string>
+    <string name="weather_condition_heavyrain">Lluvia pesada</string>
+    <string name="weather_condition_lightsnowandthunder">Nieve ligera y truenos</string>
+    <string name="weather_condition_lightrain">Lluvia ligera</string>
+    <string name="weather_condition_lightrainshowers">Chubascos ligeros</string>
+    <string name="weather_condition_lightsnow">Nieve ligera</string>
+    <string name="weather_condition_heavysleetshowersandthunder">Fuertes chubascos de aguanieve y truenos</string>
+    <string name="weather_condition_lightsnowshowers">Chubascos ligeros de nieve</string>
+    <string name="weather_condition_lightssleetshowersandthunder">Chubascos ligeros de aguanieve y truenos</string>
+    <string name="weather_condition_snowandthunder">Nieve y truenos</string>
+    <string name="weather_condition_heavysleetshowers">Fuertes chubascos de aguanieve</string>
+    <string name="weather_condition_heavysnow">Fuertes nevadas</string>
+    <string name="weather_condition_cloudy">Nublado</string>
+    <string name="weather_condition_lightrainandthunder">Lluvia ligera y truenos</string>
+    <string name="weather_condition_snow">Nieve</string>
+    <string name="weather_condition_hail">Granizo</string>
+    <string name="weather_condition_heavysnowshowers">Fuertes chubascos de nieve</string>
+    <string name="weather_condition_heavyrainshowers">Aguaceros fuertes</string>
+    <string name="weather_condition_rainshowersandthunder">Chubascos y truenos</string>
+    <string name="weather_condition_clearsky">Cielo limpio</string>
+    <string name="weather_condition_sleet">Aguanieve</string>
+    <string name="weather_condition_rain">Lluvia</string>
+    <string name="weather_condition_sleetandthunder">Aguanieve y truenos</string>
+    <string name="weather_condition_lightssnowshowersandthunder">Chubascos ligeros de nieve y truenos</string>
+    <string name="weather_condition_heavyrainshowersandthunder">Fuertes chubascos y truenos</string>
+    <string name="weather_condition_fair">Despejado</string>
+    <string name="weather_condition_fog">Niebla</string>
+    <string name="weather_condition_sleetshowersandthunder">Chubascos de aguanieve y truenos</string>
+    <string name="weather_condition_rainandthunder">Lluvia y truenos</string>
+    <string name="weather_condition_lightsleet">Aguanieve ligera</string>
+    <string name="weather_condition_heavysleetandthunder">Fuerte aguanieve y truenos</string>
+    <string name="weather_condition_partlycloudy">Parcialmente nublado</string>
+    <string name="weather_condition_heavysnowandthunder">Fuertes nevadas y truenos</string>
+    <string name="weather_condition_rainshowers">Chubascos</string>
+    <string name="weather_condition_lightsleetandthunder">Ligera aguanieve y truenos</string>
+    <string name="weather_condition_heavysnowshowersandthunder">Fuertes chubascos de nieve y truenos</string>
+    <string name="weather_condition_lightsleetshowers">Chubascos ligeros de aguanieve</string>
+    <string name="weather_condition_snowshowersandthunder">Chubascos de nieve y trueno</string>
+    <string name="weather_condition_snowshowers">Chubascos de nieve</string>
+    <string name="weather_condition_heavyrainandthunder">Fuertes lluvias y truenos</string>
+    <string name="weather_condition_wind">Viento</string>
+    <string name="weather_condition_unknown">Desconocido</string>
+</resources>
