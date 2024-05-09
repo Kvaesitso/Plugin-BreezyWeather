@@ -1,2 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="weather_condition_lightrain">Euri arina</string>
+    <string name="weather_condition_sleetshowers">Elurbusti-zaparradak</string>
+    <string name="weather_condition_lightrainshowersandthunder">Euri-zaparrada arinak eta trumoiak</string>
+    <string name="weather_condition_lightsnowandthunder">Elur arina eta trumoiak</string>
+    <string name="weather_condition_lightrainshowers">Euri-zaparrada arinak</string>
+    <string name="weather_condition_lightsnow">Elur arina</string>
+    <string name="weather_condition_lightsnowshowers">Elur-zaparrada arinak</string>
+    <string name="weather_condition_lightssleetshowersandthunder">Elurbusti-zaparrada arinak eta trumoiak</string>
+    <string name="weather_condition_snowandthunder">Elurra eta trumoiak</string>
+    <string name="weather_condition_cloudy">Lainotua</string>
+    <string name="weather_condition_lightrainandthunder">Euri arina eta trumoiak</string>
+    <string name="weather_condition_snow">Elurra</string>
+    <string name="weather_condition_hail">Kazkabarra</string>
+    <string name="weather_condition_rainshowersandthunder">Euri-zaparradak eta trumoiak</string>
+    <string name="weather_condition_clearsky">Oskarbi</string>
+    <string name="weather_condition_sleet">Elurbustia</string>
+    <string name="weather_condition_rain">Euria</string>
+    <string name="weather_condition_sleetandthunder">Elurbustia eta trumoiak</string>
+    <string name="weather_condition_lightssnowshowersandthunder">Elur-zaparrada arinak eta trumoiak</string>
+    <string name="weather_condition_fair">Oskarbi</string>
+    <string name="weather_condition_fog">Lainoa</string>
+    <string name="weather_condition_sleetshowersandthunder">Elurbusti-zaparradak eta trumoiak</string>
+    <string name="weather_condition_rainandthunder">Euria eta trumoiak</string>
+    <string name="weather_condition_lightsleet">Elurbusti arina</string>
+    <string name="weather_condition_partlycloudy">Ostarteak</string>
+    <string name="weather_condition_rainshowers">Euri-zaparradak</string>
+    <string name="weather_condition_lightsleetandthunder">Elurbusti arina eta trumoiak</string>
+    <string name="weather_condition_lightsleetshowers">Elurbusti-zaparrada arinak</string>
+    <string name="weather_condition_snowshowersandthunder">Elur-zaparradak eta trumoiak</string>
+    <string name="weather_condition_snowshowers">Elur-zaparradak</string>
+    <string name="weather_condition_wind">Haizea</string>
+    <string name="weather_condition_unknown">Ezezaguna</string>
+</resources>
