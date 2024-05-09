@@ -1,2 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="weather_condition_sleetshowers">Snöblandat regn</string>
+    <string name="weather_condition_heavysleet">Kraftigt snöblandat regn</string>
+    <string name="weather_condition_lightrainshowersandthunder">Lätt åskregn</string>
+    <string name="weather_condition_heavyrain">Kraftigt regn</string>
+    <string name="weather_condition_lightsnowandthunder">Lätt snöfall och åska</string>
+    <string name="weather_condition_lightrain">Lätt regn</string>
+    <string name="weather_condition_lightrainshowers">Lätta regnskurar</string>
+    <string name="weather_condition_lightsnow">Lätt snöfall</string>
+    <string name="weather_condition_heavysleetshowersandthunder">Kraftigt snöblandat regn och åska</string>
+    <string name="weather_condition_lightsnowshowers">Lätt snöby</string>
+    <string name="weather_condition_lightssleetshowersandthunder">Lätt snöblandat regn och åska</string>
+    <string name="weather_condition_snowandthunder">Snöfall och åska</string>
+    <string name="weather_condition_heavysleetshowers">Kraftigt snöblandat regn</string>
+    <string name="weather_condition_heavysnow">Kraftigt snöfall</string>
+    <string name="weather_condition_cloudy">Molnigt</string>
+    <string name="weather_condition_lightrainandthunder">Lätt åskregn</string>
+    <string name="weather_condition_snow">Snöfall</string>
+    <string name="weather_condition_hail">Hagel</string>
+    <string name="weather_condition_heavysnowshowers">Kraftigt snöfall</string>
+    <string name="weather_condition_heavyrainshowers">Kraftigt regn</string>
+    <string name="weather_condition_rainshowersandthunder">Åskregn</string>
+    <string name="weather_condition_clearsky">Klart</string>
+    <string name="weather_condition_sleet">Snöblandat regn</string>
+    <string name="weather_condition_rain">Regn</string>
+    <string name="weather_condition_sleetandthunder">Snöblandat regn och åska</string>
+    <string name="weather_condition_lightssnowshowersandthunder">Lätt snöfall och åska</string>
+    <string name="weather_condition_heavyrainshowersandthunder">Kraftigt åskregn</string>
+    <string name="weather_condition_fair">Halvklart</string>
+    <string name="weather_condition_fog">Dimma</string>
+    <string name="weather_condition_sleetshowersandthunder">Snöblandat regn och åska</string>
+    <string name="weather_condition_rainandthunder">Åskregn</string>
+    <string name="weather_condition_lightsleet">Lätt snöblandat regn</string>
+    <string name="weather_condition_heavysleetandthunder">Kraftigt snöblandat regn och åska</string>
+    <string name="weather_condition_partlycloudy">Växlande molnighet</string>
+    <string name="weather_condition_heavysnowandthunder">Kraftigt snöfall och åska</string>
+    <string name="weather_condition_rainshowers">Regnskurar</string>
+    <string name="weather_condition_lightsleetandthunder">Lätt snöblandat regn och åska</string>
+    <string name="weather_condition_heavysnowshowersandthunder">Kraftigt snöfall och åska</string>
+    <string name="weather_condition_lightsleetshowers">Lätt snöblandat regn</string>
+    <string name="weather_condition_snowshowersandthunder">Snöfall och åska</string>
+    <string name="weather_condition_snowshowers">Snöfall</string>
+    <string name="weather_condition_heavyrainandthunder">Kraftigt åskregn</string>
+    <string name="weather_condition_wind">Vind</string>
+    <string name="weather_condition_unknown">Okänt</string>
+</resources>
