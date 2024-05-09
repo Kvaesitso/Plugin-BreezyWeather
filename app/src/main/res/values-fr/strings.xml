@@ -1,2 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="weather_condition_lightsleetshowers">Légère averses de grésil</string>
+    <string name="weather_condition_sleetshowers">Averses de grésil</string>
+    <string name="weather_condition_heavysleet">Fort grésil</string>
+    <string name="weather_condition_lightrainshowersandthunder">Légères averses et orage</string>
+    <string name="weather_condition_heavyrain">Forte pluie</string>
+    <string name="weather_condition_lightsnowandthunder">Légère neige et orage</string>
+    <string name="weather_condition_lightrain">Légère pluie</string>
+    <string name="weather_condition_lightrainshowers">Légères averses</string>
+    <string name="weather_condition_lightsnow">Légère neige</string>
+    <string name="weather_condition_heavysleetshowersandthunder">Fortes averses de grésil et orage</string>
+    <string name="weather_condition_lightsnowshowers">Légères averses de neige</string>
+    <string name="weather_condition_lightssleetshowersandthunder">Légères averses de grésil et orage</string>
+    <string name="weather_condition_snowandthunder">Neige et orage</string>
+    <string name="weather_condition_heavysleetshowers">Fortes averses de grésil</string>
+    <string name="weather_condition_heavysnow">Forte neige</string>
+    <string name="weather_condition_cloudy">Nuageux</string>
+    <string name="weather_condition_lightrainandthunder">Légère pluie et orage</string>
+    <string name="weather_condition_snow">Neige</string>
+    <string name="weather_condition_hail">Grêle</string>
+    <string name="weather_condition_heavysnowshowers">Fortes averses de neige</string>
+    <string name="weather_condition_heavyrainshowers">Fortes averses</string>
+    <string name="weather_condition_rainshowersandthunder">Averses et orage</string>
+    <string name="weather_condition_clearsky">Ciel clair</string>
+    <string name="weather_condition_sleet">Grésil</string>
+    <string name="weather_condition_rain">Pluie</string>
+    <string name="weather_condition_sleetandthunder">Grésil et orage</string>
+    <string name="weather_condition_lightssnowshowersandthunder">Légères averses de neige et orage</string>
+    <string name="weather_condition_heavyrainshowersandthunder">Fortes averses et orage</string>
+    <string name="weather_condition_fair">Beau temps</string>
+    <string name="weather_condition_fog">Brouillard</string>
+    <string name="weather_condition_sleetshowersandthunder">Averses de grésil et orage</string>
+    <string name="weather_condition_rainandthunder">Pluie et orage</string>
+    <string name="weather_condition_lightsleet">Léger grésil</string>
+    <string name="weather_condition_heavysleetandthunder">Fort grésil et orage</string>
+    <string name="weather_condition_partlycloudy">Partiellement nuageux</string>
+    <string name="weather_condition_heavysnowandthunder">Forte neige et orage</string>
+    <string name="weather_condition_rainshowers">Averses</string>
+    <string name="weather_condition_lightsleetandthunder">Léger grésil et orage</string>
+    <string name="weather_condition_heavysnowshowersandthunder">Fortes averses de neige et orage</string>
+    <string name="weather_condition_snowshowersandthunder">Averses de neige et orage</string>
+    <string name="weather_condition_snowshowers">Averses de neige</string>
+    <string name="weather_condition_heavyrainandthunder">Forte pluie et orage</string>
+    <string name="weather_condition_wind">Vent</string>
+    <string name="weather_condition_unknown">Inconnu</string>
+</resources>
