@@ -1,2 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="weather_condition_sleetshowers">Sludbyger</string>
+    <string name="weather_condition_heavysleet">Kraftig slud</string>
+    <string name="weather_condition_lightrainshowersandthunder">Lette regnbyger og torden</string>
+    <string name="weather_condition_heavyrain">Kraftig regn</string>
+    <string name="weather_condition_lightsnowandthunder">Let sne og torden</string>
+    <string name="weather_condition_lightrain">Let regn</string>
+    <string name="weather_condition_lightrainshowers">Lette regnbyger</string>
+    <string name="weather_condition_lightsnow">Let sne</string>
+    <string name="weather_condition_heavysleetshowersandthunder">Kraftig sludbyger og torden</string>
+    <string name="weather_condition_lightsnowshowers">Lette snebyger</string>
+    <string name="weather_condition_lightssleetshowersandthunder">Lette sludbyger og torden</string>
+    <string name="weather_condition_snowandthunder">Sne og torden</string>
+    <string name="weather_condition_heavysleetshowers">Kraftig sludbyger</string>
+    <string name="weather_condition_heavysnow">Kraftig sne</string>
+    <string name="weather_condition_cloudy">Skyet</string>
+    <string name="weather_condition_lightrainandthunder">Let regn og torden</string>
+    <string name="weather_condition_snow">Sne</string>
+    <string name="weather_condition_hail">Hagl</string>
+    <string name="weather_condition_heavysnowshowers">Kraftige snebyger</string>
+    <string name="weather_condition_heavyrainshowers">Kraftige regnbyger</string>
+    <string name="weather_condition_rainshowersandthunder">Regnbyger og torden</string>
+    <string name="weather_condition_clearsky">Klar himmel</string>
+    <string name="weather_condition_sleet">Slud</string>
+    <string name="weather_condition_rain">Regn</string>
+    <string name="weather_condition_sleetandthunder">Slud og torden</string>
+    <string name="weather_condition_lightssnowshowersandthunder">Lette snebyger og torden</string>
+    <string name="weather_condition_heavyrainshowersandthunder">Kraftige regnbyger og torden</string>
+    <string name="weather_condition_fair">Fint</string>
+    <string name="weather_condition_fog">Tåget</string>
+    <string name="weather_condition_sleetshowersandthunder">Sludbyger og torden</string>
+    <string name="weather_condition_rainandthunder">Regn og torden</string>
+    <string name="weather_condition_lightsleet">Let slud</string>
+    <string name="weather_condition_heavysleetandthunder">Kraftig slud og torden</string>
+    <string name="weather_condition_partlycloudy">Delvist overskyet</string>
+    <string name="weather_condition_heavysnowandthunder">Kraftig sne og torden</string>
+    <string name="weather_condition_rainshowers">Regnbyger</string>
+    <string name="weather_condition_lightsleetandthunder">Let slud og torden</string>
+    <string name="weather_condition_heavysnowshowersandthunder">Kraftige snebyger og torden</string>
+    <string name="weather_condition_lightsleetshowers">Lette sludbyger</string>
+    <string name="weather_condition_snowshowersandthunder">Snebyger og torden</string>
+    <string name="weather_condition_snowshowers">Snebyger</string>
+    <string name="weather_condition_heavyrainandthunder">Kraftig regn og torden</string>
+    <string name="weather_condition_wind">Blæser</string>
+    <string name="weather_condition_unknown">Ukendt</string>
+</resources>
