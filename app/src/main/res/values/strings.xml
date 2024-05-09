@@ -1,13 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Kvaesitso Breezy Weather Plugin</string>
-
     <string name="plugin_package_name">Breezy Weather integration</string>
-    <string name="plugin_package_description">Forwards weather data from Breezy Weather</string>
+    <string name="plugin_package_description">Forwards weather data from Breezy Weather to Kvaesitso</string>
     <string name="plugin_name">Breezy Weather</string>
-
     <string name="plugin_state_breezyweather_not_installed">Breezy Weather is not installed.</string>
     <string name="plugin_state_data_sharing_not_enabled">Enable data sharing in Breezy Weather to use this plugin.</string>
-
     <string name="weather_condition_sleetshowers">Sleet showers</string>
     <string name="weather_condition_heavysleet">Heavy sleet</string>
     <string name="weather_condition_lightrainshowersandthunder">Light rain showers and thunder</string>
