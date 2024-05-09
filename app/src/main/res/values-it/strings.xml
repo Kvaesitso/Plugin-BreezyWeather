@@ -1,2 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="weather_condition_sleetshowers">Rovesci di nevischio</string>
+    <string name="weather_condition_heavysleet">Nevischio pesante</string>
+    <string name="weather_condition_lightrainshowersandthunder">Deboli rovesci di pioggia e tuoni</string>
+    <string name="weather_condition_heavyrain">Pioggia intensa</string>
+    <string name="weather_condition_lightsnowandthunder">Neve leggera e tuoni</string>
+    <string name="weather_condition_lightrain">Pioggia leggera</string>
+    <string name="weather_condition_lightrainshowers">Pioggia leggera debole</string>
+    <string name="weather_condition_lightsnow">Neve leggera</string>
+    <string name="weather_condition_heavysleetshowersandthunder">Rovesci di nevischio e tuoni</string>
+    <string name="weather_condition_lightsnowshowers">Deboli rovesci di neve</string>
+    <string name="weather_condition_lightssleetshowersandthunder">Deboli rovesci di nevischio e tuoni</string>
+    <string name="weather_condition_snowandthunder">Neve e temporale</string>
+    <string name="weather_condition_heavysleetshowers">Nevischio intenso</string>
+    <string name="weather_condition_heavysnow">Forte nevicata</string>
+    <string name="weather_condition_cloudy">Nuvoloso</string>
+    <string name="weather_condition_lightrainandthunder">Pioggia leggera e tuoni</string>
+    <string name="weather_condition_snow">Neve</string>
+    <string name="weather_condition_hail">Grandine</string>
+    <string name="weather_condition_heavysnowshowers">Forti rovesci di neve</string>
+    <string name="weather_condition_heavyrainshowers">Forti rovesci di pioggia</string>
+    <string name="weather_condition_rainshowersandthunder">Rovesci di pioggia e tuoni</string>
+    <string name="weather_condition_clearsky">Cielo sereno</string>
+    <string name="weather_condition_sleet">Nevischio</string>
+    <string name="weather_condition_rain">Pioggia</string>
+    <string name="weather_condition_sleetandthunder">Nevischio e tuono</string>
+    <string name="weather_condition_lightssnowshowersandthunder">Deboli rovesci di neve e tuoni</string>
+    <string name="weather_condition_heavyrainshowersandthunder">Forti rovesci di pioggia e tuoni</string>
+    <string name="weather_condition_fair">Soleggiato</string>
+    <string name="weather_condition_fog">Nebbia</string>
+    <string name="weather_condition_sleetshowersandthunder">Rovesci di nevischio e tuoni</string>
+    <string name="weather_condition_rainandthunder">Pioggia e tuoni</string>
+    <string name="weather_condition_lightsleet">Nevischio leggero</string>
+    <string name="weather_condition_heavysleetandthunder">Forte nevischio e temporale</string>
+    <string name="weather_condition_partlycloudy">Parzialmente nuvoloso</string>
+    <string name="weather_condition_heavysnowandthunder">Nevicate abbondanti e tuoni</string>
+    <string name="weather_condition_rainshowers">Piogge a catinelle</string>
+    <string name="weather_condition_lightsleetandthunder">Leggero nevischio e tuoni</string>
+    <string name="weather_condition_heavysnowshowersandthunder">Forti rovesci di neve e tuoni</string>
+    <string name="weather_condition_lightsleetshowers">Deboli rovesci di nevischio</string>
+    <string name="weather_condition_snowshowersandthunder">Rovesci di neve e tuoni</string>
+    <string name="weather_condition_snowshowers">Rovesci di neve</string>
+    <string name="weather_condition_heavyrainandthunder">Forti piogge e temporale</string>
+    <string name="weather_condition_wind">Vento</string>
+    <string name="weather_condition_unknown">Sconosciuto</string>
+</resources>
