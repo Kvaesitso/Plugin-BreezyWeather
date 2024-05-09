@@ -1,2 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="weather_condition_sleetshowers">Xàfecs de neu</string>
+    <string name="weather_condition_heavysleet">Pedregada</string>
+    <string name="weather_condition_lightrainshowersandthunder">Pluja lleugera i trons</string>
+    <string name="weather_condition_heavyrain">Pluja forta</string>
+    <string name="weather_condition_lightsnowandthunder">Nevada lleugera i trons</string>
+    <string name="weather_condition_lightrain">Pluja lleugera</string>
+    <string name="weather_condition_lightrainshowers">Plugim</string>
+    <string name="weather_condition_lightsnow">Neu lleugera</string>
+    <string name="weather_condition_heavysleetshowersandthunder">Xàfecs intensos i trons</string>
+    <string name="weather_condition_lightsnowshowers">Ruixats de neu lleugers</string>
+    <string name="weather_condition_lightssleetshowersandthunder">Xàfecs, llamps i trons</string>
+    <string name="weather_condition_snowandthunder">Neu i trons</string>
+    <string name="weather_condition_heavysleetshowers">Xàfecs intensos</string>
+    <string name="weather_condition_heavysnow">Neu intensa</string>
+    <string name="weather_condition_cloudy">Ennuvolat</string>
+    <string name="weather_condition_lightrainandthunder">Pluja lleugera i trons</string>
+    <string name="weather_condition_snow">Neu</string>
+    <string name="weather_condition_hail">Calamarsa</string>
+    <string name="weather_condition_heavysnowshowers">Ruixats de neu intensos</string>
+    <string name="weather_condition_heavyrainshowers">Pluja intensa</string>
+    <string name="weather_condition_rainshowersandthunder">Ruixats de pluja i trons</string>
+    <string name="weather_condition_clearsky">Cel serè</string>
+    <string name="weather_condition_sleet">Aiguaneu</string>
+    <string name="weather_condition_rain">Pluja</string>
+    <string name="weather_condition_sleetandthunder">Aiguaneu i trons</string>
+    <string name="weather_condition_lightssnowshowersandthunder">Ruixats de neu suaus i trons</string>
+    <string name="weather_condition_heavyrainshowersandthunder">Ruixats de pluja intensa i trons</string>
+    <string name="weather_condition_fair">Bon temps</string>
+    <string name="weather_condition_fog">Boira</string>
+    <string name="weather_condition_sleetshowersandthunder">Xàfecs i trons</string>
+    <string name="weather_condition_rainandthunder">Pluja i trons</string>
+    <string name="weather_condition_lightsleet">Pluja suau</string>
+    <string name="weather_condition_heavysleetandthunder">Pluja forta i trons</string>
+    <string name="weather_condition_partlycloudy">Parcialment ennuvolat</string>
+    <string name="weather_condition_heavysnowandthunder">Nevada intensa i trons</string>
+    <string name="weather_condition_rainshowers">Ruixats de pluja</string>
+    <string name="weather_condition_lightsleetandthunder">Pluja lleugera i trons</string>
+    <string name="weather_condition_heavysnowshowersandthunder">Ruixats de neu intensos i trons</string>
+    <string name="weather_condition_lightsleetshowers">Xàfecs de pluja lleugera</string>
+    <string name="weather_condition_snowshowersandthunder">Ruixats de neu i trons</string>
+    <string name="weather_condition_snowshowers">Ruixats de neu</string>
+    <string name="weather_condition_heavyrainandthunder">Pluja intensa i trons</string>
+    <string name="weather_condition_wind">Vent</string>
+    <string name="weather_condition_unknown">Desconegut</string>
+</resources>
