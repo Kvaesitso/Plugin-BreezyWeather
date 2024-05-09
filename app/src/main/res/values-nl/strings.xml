@@ -1,2 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="weather_condition_sleetshowers">Buien van smeltende sneeuw</string>
+    <string name="weather_condition_heavysleet">Hevige smeltende sneeuw</string>
+    <string name="weather_condition_lightrainshowersandthunder">Lichte regenbuien en donder</string>
+    <string name="weather_condition_heavyrain">Zware regenval</string>
+    <string name="weather_condition_lightsnowandthunder">Lichte sneeuw en donder</string>
+    <string name="weather_condition_lightrain">Lichte regen</string>
+    <string name="weather_condition_lightrainshowers">Lichte regenbuien</string>
+    <string name="weather_condition_lightsnow">Lichte sneeuw</string>
+    <string name="weather_condition_heavysleetshowersandthunder">Zware buien van smeltende sneeuw en donder</string>
+    <string name="weather_condition_lightsnowshowers">Lichte sneeuwbuien</string>
+    <string name="weather_condition_lightssleetshowersandthunder">Lichte smeltende sneeuw en donder</string>
+    <string name="weather_condition_snowandthunder">Sneeuw en donder</string>
+    <string name="weather_condition_heavysleetshowers">Zware buien van smeltende sneeuw</string>
+    <string name="weather_condition_heavysnow">Zware sneeuwval</string>
+    <string name="weather_condition_cloudy">Bewolkt</string>
+    <string name="weather_condition_lightrainandthunder">Lichte regen en donder</string>
+    <string name="weather_condition_snow">Sneeuw</string>
+    <string name="weather_condition_hail">Hagel</string>
+    <string name="weather_condition_heavysnowshowers">Zware sneeuwbuien</string>
+    <string name="weather_condition_heavyrainshowers">Zware regenbuien</string>
+    <string name="weather_condition_rainshowersandthunder">Regenbuien en donder</string>
+    <string name="weather_condition_clearsky">Heldere lucht</string>
+    <string name="weather_condition_sleet">Smeltende sneeuw</string>
+    <string name="weather_condition_rain">Regen</string>
+    <string name="weather_condition_sleetandthunder">Smeltende sneeuw en donder</string>
+    <string name="weather_condition_lightssnowshowersandthunder">Lichte regenbuien en donder</string>
+    <string name="weather_condition_heavyrainshowersandthunder">Zware regenbuien en donder</string>
+    <string name="weather_condition_fair">Aangenaam</string>
+    <string name="weather_condition_fog">Mist</string>
+    <string name="weather_condition_sleetshowersandthunder">Buien van smeltende sneeuw en donder</string>
+    <string name="weather_condition_rainandthunder">Regen en donder</string>
+    <string name="weather_condition_lightsleet">Lichte smeltende sneeuw</string>
+    <string name="weather_condition_heavysleetandthunder">Zware smeltende sneeuw en donder</string>
+    <string name="weather_condition_partlycloudy">Gedeeltelijk bewolkt</string>
+    <string name="weather_condition_heavysnowandthunder">Zware sneeuwval en donder</string>
+    <string name="weather_condition_rainshowers">Regenbuien</string>
+    <string name="weather_condition_lightsleetandthunder">Lichte smeltende sneeuw en donder</string>
+    <string name="weather_condition_heavysnowshowersandthunder">Zware sneeuwbuien en donder</string>
+    <string name="weather_condition_lightsleetshowers">Lichte buien van smeltende sneeuw</string>
+    <string name="weather_condition_snowshowersandthunder">Sneeuwbuien en donder</string>
+    <string name="weather_condition_snowshowers">Sneeuwbuien</string>
+    <string name="weather_condition_heavyrainandthunder">Zware regenval en donder</string>
+    <string name="weather_condition_wind">Wind</string>
+    <string name="weather_condition_unknown">Onbekend</string>
+</resources>
