@@ -1,2 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="weather_condition_sleetshowers">Przelotne opady śniegu z deszczem</string>
+    <string name="weather_condition_heavysleet">Ciężki śnieg z deszczem</string>
+    <string name="weather_condition_lightrainshowersandthunder">Lekkie przelotne opady deszczu z piorunami</string>
+    <string name="weather_condition_heavyrain">Ciężki deszcz</string>
+    <string name="weather_condition_lightsnowandthunder">Lekki śnieg z piorunami</string>
+    <string name="weather_condition_lightrain">Lekki deszcz</string>
+    <string name="weather_condition_lightrainshowers">Lekkie przelotne opady deszczu</string>
+    <string name="weather_condition_lightsnow">Lekki śnieg</string>
+    <string name="weather_condition_heavysleetshowersandthunder">Ciężkie przelotne opady śniegu z deszczem i piorunami</string>
+    <string name="weather_condition_lightsnowshowers">Lekkie przelotne opady śniegu</string>
+    <string name="weather_condition_lightssleetshowersandthunder">Lekki śnieg z deszczem i piorunami</string>
+    <string name="weather_condition_snowandthunder">Śnieg z piorunami</string>
+    <string name="weather_condition_heavysleetshowers">Ciężkie przelotne opady śniegu z deszczem</string>
+    <string name="weather_condition_heavysnow">Ciężki śnieg</string>
+    <string name="weather_condition_cloudy">Pochmurnie</string>
+    <string name="weather_condition_lightrainandthunder">Lekki deszcz z piorunami</string>
+    <string name="weather_condition_snow">Śnieg</string>
+    <string name="weather_condition_hail">Grad</string>
+    <string name="weather_condition_heavysnowshowers">Ciężkie przelotne opady śniegu</string>
+    <string name="weather_condition_heavyrainshowers">Ciężkie przelotne opady deszczu</string>
+    <string name="weather_condition_rainshowersandthunder">Przelotne opady deszczu z piorunami</string>
+    <string name="weather_condition_clearsky">Czyste niebo</string>
+    <string name="weather_condition_sleet">Śnieg z deszczem</string>
+    <string name="weather_condition_rain">Deszcz</string>
+    <string name="weather_condition_sleetandthunder">Śnieg z deszczem i piorunami</string>
+    <string name="weather_condition_lightssnowshowersandthunder">Lekkie przelotne opady śniegu z piorunami</string>
+    <string name="weather_condition_heavyrainshowersandthunder">Ciężkie przelotne opady deszczu z piorunami</string>
+    <string name="weather_condition_fair">Ładna pogoda</string>
+    <string name="weather_condition_fog">Mgła</string>
+    <string name="weather_condition_sleetshowersandthunder">Przelotne opady śniegu z deszczem i piorunami</string>
+    <string name="weather_condition_rainandthunder">Deszcz z piorunami</string>
+    <string name="weather_condition_lightsleet">Lekki śnieg z deszczem</string>
+    <string name="weather_condition_heavysleetandthunder">Ciężki śnieg z deszczem i piorunami</string>
+    <string name="weather_condition_partlycloudy">Częściowo pochmurnie</string>
+    <string name="weather_condition_heavysnowandthunder">Ciężki śnieg z piorunami</string>
+    <string name="weather_condition_rainshowers">Przelotne opady deszczu</string>
+    <string name="weather_condition_lightsleetandthunder">Lekki śnieg z deszczem i piorunami</string>
+    <string name="weather_condition_heavysnowshowersandthunder">Ciężkie przelotne opady śniegu z piorunami</string>
+    <string name="weather_condition_lightsleetshowers">Lekkie przelotne opady śniegu z deszczem</string>
+    <string name="weather_condition_snowshowersandthunder">Przelotne opady śniegu z piorunami</string>
+    <string name="weather_condition_snowshowers">Przelotne opady śniegu</string>
+    <string name="weather_condition_heavyrainandthunder">Ciężki deszcz z piorunami</string>
+    <string name="weather_condition_wind">Wiatr</string>
+    <string name="weather_condition_unknown">Nieznany</string>
+</resources>
