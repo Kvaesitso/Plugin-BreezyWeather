@@ -1,2 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="weather_condition_hail">Grindină</string>
+    <string name="weather_condition_sleetshowers">Lapoviță</string>
+    <string name="weather_condition_heavysleet">Lapoviță grea</string>
+    <string name="weather_condition_lightrainshowersandthunder">Averse ușoare de ploaie și tunete</string>
+    <string name="weather_condition_heavyrain">Ploaie torențială</string>
+    <string name="weather_condition_lightsnowandthunder">Zăpadă ușoară și tunete</string>
+    <string name="weather_condition_lightrain">Ploaie ușoară</string>
+    <string name="weather_condition_lightrainshowers">Averse ușoare de ploaie</string>
+    <string name="weather_condition_lightsnow">Zăpadă ușoară</string>
+    <string name="weather_condition_heavysleetshowersandthunder">Dușuri grele de lapoviță și tunete</string>
+    <string name="weather_condition_lightsnowshowers">Averse slabe de zăpadă</string>
+    <string name="weather_condition_lightssleetshowersandthunder">Averse ușoare de ploaie și tunete</string>
+    <string name="weather_condition_snowandthunder">Zăpadă și tunete</string>
+    <string name="weather_condition_heavysleetshowers">Averse puternice de lapoviță</string>
+    <string name="weather_condition_heavysnow">Zăpadă abundentă</string>
+    <string name="weather_condition_cloudy">Înnorat</string>
+    <string name="weather_condition_lightrainandthunder">Ploaie ușoară și tunete</string>
+    <string name="weather_condition_snow">Zăpadă</string>
+    <string name="weather_condition_heavysnowshowers">Averse abundente de zăpadă</string>
+    <string name="weather_condition_heavyrainshowers">Ploi torențiale</string>
+    <string name="weather_condition_rainshowersandthunder">Averse de ploaie și tunete</string>
+    <string name="weather_condition_clearsky">Cer senin</string>
+    <string name="weather_condition_sleet">Lapoviță</string>
+    <string name="weather_condition_rain">Ploaie</string>
+    <string name="weather_condition_sleetandthunder">Lapoviță și tunete</string>
+    <string name="weather_condition_lightssnowshowersandthunder">Averse ușoare de zăpadă și tunete</string>
+    <string name="weather_condition_heavyrainshowersandthunder">Averse torențiale de ploaie și tunete</string>
+    <string name="weather_condition_fair">Bună</string>
+    <string name="weather_condition_fog">Ceață</string>
+    <string name="weather_condition_sleetshowersandthunder">Averse de zăpadă și tunete</string>
+    <string name="weather_condition_rainandthunder">Ploaie și tunete</string>
+    <string name="weather_condition_lightsleet">Ninsori ușoare</string>
+    <string name="weather_condition_heavysleetandthunder">Ploaie torențială și tunete</string>
+    <string name="weather_condition_partlycloudy">Parțial înnorat</string>
+    <string name="weather_condition_heavysnowandthunder">Zăpadă abundentă și tunete</string>
+    <string name="weather_condition_rainshowers">Averse de ploaie</string>
+    <string name="weather_condition_lightsleetandthunder">Lapoviță ușoară și tunete</string>
+    <string name="weather_condition_heavysnowshowersandthunder">Averse abundente de zăpadă și tunete</string>
+    <string name="weather_condition_lightsleetshowers">Averse ușoare de lapoviță</string>
+    <string name="weather_condition_snowshowersandthunder">Averse de zăpadă și tunete</string>
+    <string name="weather_condition_snowshowers">Averse de zăpadă</string>
+    <string name="weather_condition_heavyrainandthunder">Ploaie torențială și tunete</string>
+    <string name="weather_condition_wind">Vânt</string>
+    <string name="weather_condition_unknown">Necunoscut</string>
+</resources>
