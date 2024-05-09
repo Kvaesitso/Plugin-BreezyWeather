@@ -6,7 +6,7 @@ feature and forwards the data to Kvaesitso.
 
 ## Setup
 
-First, install the plugin. You can either download it from the [releases page](), or
+First, install the plugin. You can either download it from the [releases page](https://github.com/Kvaesitso/Plugin-BreezyWeather/releases), or
 from the [MM20 F-Droid repository](https://fdroid.mm20.de/).
 
 Then, you need to enable data sharing in Breezy Weather. To do this, open Breezy Weather, go to
