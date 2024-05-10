@@ -44,4 +44,5 @@
     <string name="weather_condition_heavyrainandthunder">Forte pluie et orage</string>
     <string name="weather_condition_wind">Vent</string>
     <string name="weather_condition_unknown">Inconnu</string>
+    <string name="weather_condition_thunderstorm">Orage</string>
 </resources>
