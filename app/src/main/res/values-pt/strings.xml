@@ -24,4 +24,12 @@
     <string name="weather_condition_rainshowers">Aguaceiros</string>
     <string name="weather_condition_heavyrainandthunder">Chuva intensa e trovoada</string>
     <string name="weather_condition_unknown">Desconhecido</string>
+    <string name="app_name">Plugin Kvaesitso Breezy Weather</string>
+    <string name="plugin_package_name">Integração Breezy Weather</string>
+    <string name="plugin_package_description">Obtém os dados meteorológicos de Breezy Weather</string>
+    <string name="plugin_name">Breezy Weather</string>
+    <string name="plugin_state_breezyweather_not_installed">Breezy Weather não está instalado.</string>
+    <string name="plugin_state_data_sharing_not_enabled">Ative a partilha de dados em Breezy Weather para usar este plugin.</string>
+    <string name="weather_condition_thunder">Trovões</string>
+    <string name="weather_condition_thunderstorm">Trovoada</string>
 </resources>
