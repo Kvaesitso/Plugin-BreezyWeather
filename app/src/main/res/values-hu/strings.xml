@@ -44,4 +44,7 @@
     <string name="weather_condition_heavyrainandthunder">Heves eső és mennydörgés</string>
     <string name="weather_condition_wind">Szél</string>
     <string name="weather_condition_unknown">Ismeretlen</string>
+    <string name="weather_condition_thunder">Mennydörgés</string>
+    <string name="weather_condition_thunderstorm">Zivatar</string>
+    <string name="weather_condition_haze">Száraz légköri homály</string>
 </resources>
