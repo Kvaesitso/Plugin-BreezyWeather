@@ -44,4 +44,7 @@
     <string name="weather_condition_heavyrainandthunder">Kraftig regn og torden</string>
     <string name="weather_condition_wind">Blæser</string>
     <string name="weather_condition_unknown">Ukendt</string>
+    <string name="weather_condition_thunder">Torden</string>
+    <string name="weather_condition_thunderstorm">Skybrud</string>
+    <string name="weather_condition_haze">Diset</string>
 </resources>
