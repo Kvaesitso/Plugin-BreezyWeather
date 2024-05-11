@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="weather_condition_sleetshowers">Мокрый снег</string>
+    <string name="weather_condition_sleetshowers">Дождь со снегом</string>
     <string name="weather_condition_heavysleet">Сильный мокрый снег</string>
     <string name="weather_condition_lightrainshowersandthunder">Слабый дождь с грозой</string>
     <string name="weather_condition_heavyrain">Ливень</string>
@@ -44,4 +44,13 @@
     <string name="weather_condition_heavyrainandthunder">Сильный дождь и гроза</string>
     <string name="weather_condition_wind">Ветрено</string>
     <string name="weather_condition_unknown">Неизвестно</string>
+    <string name="app_name">Плагин погоды Breezy для лаунчера Kvaesitso</string>
+    <string name="plugin_package_name">Интеграция Breezy Weather</string>
+    <string name="plugin_name">Breezy Weather</string>
+    <string name="plugin_state_breezyweather_not_installed">Breezy Weather не установлен.</string>
+    <string name="weather_condition_thunderstorm">Гроза</string>
+    <string name="weather_condition_thunder">Гром</string>
+    <string name="weather_condition_haze">Дымка</string>
+    <string name="plugin_package_description">Передача данных о погоде из Breezy Weather в Kvaesitso</string>
+    <string name="plugin_state_data_sharing_not_enabled">Включить передачу данных из Breezy Weather для использования этого плагина.</string>
 </resources>
