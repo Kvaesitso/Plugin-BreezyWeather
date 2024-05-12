@@ -47,4 +47,10 @@
     <string name="weather_condition_thunder">Mennydörgés</string>
     <string name="weather_condition_thunderstorm">Zivatar</string>
     <string name="weather_condition_haze">Száraz légköri homály</string>
+    <string name="app_name">Kvaesitso Breezy Weather bővítmény</string>
+    <string name="plugin_package_name">Breezy Weather integráció</string>
+    <string name="plugin_package_description">Időjárási adatok továbbítása Breezy Weather-ből Kvaesitso-ba</string>
+    <string name="plugin_name">Breezy Weather</string>
+    <string name="plugin_state_breezyweather_not_installed">A Breezy Weather alkalmazás még nincs telepítve.</string>
+    <string name="plugin_state_data_sharing_not_enabled">A bővítmény használatához engedélyezze az adatmegosztást a Breezy Weatherben.</string>
 </resources>
