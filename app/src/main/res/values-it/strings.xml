@@ -44,4 +44,13 @@
     <string name="weather_condition_heavyrainandthunder">Forti piogge e temporale</string>
     <string name="weather_condition_wind">Vento</string>
     <string name="weather_condition_unknown">Sconosciuto</string>
+    <string name="app_name">Plugin Kvaesitso per Breezy Weather</string>
+    <string name="plugin_package_name">Integrazione di Breezy Weather</string>
+    <string name="plugin_name">Breezy Weather</string>
+    <string name="plugin_package_description">Inoltra dati meteorologici da Breezy Weather a Kvaesitso</string>
+    <string name="plugin_state_breezyweather_not_installed">Breezy Weather non è installato.</string>
+    <string name="plugin_state_data_sharing_not_enabled">Abilita condivisione dei dati in Breezy Weather per utilizzare questo plugin.</string>
+    <string name="weather_condition_thunder">Tuono</string>
+    <string name="weather_condition_thunderstorm">Temporale</string>
+    <string name="weather_condition_haze">Foschia</string>
 </resources>
