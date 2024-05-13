@@ -45,4 +45,10 @@
     <string name="weather_condition_wind">Vent</string>
     <string name="weather_condition_unknown">Inconnu</string>
     <string name="weather_condition_thunderstorm">Orage</string>
+    <string name="plugin_name">Breezy Weather</string>
+    <string name="app_name">Plugin Kvaesitso Breezy Weather</string>
+    <string name="plugin_package_name">Intégration Breezy Weather</string>
+    <string name="plugin_package_description">Transfère les données de Breezy Weather vers Kvaesitso</string>
+    <string name="plugin_state_data_sharing_not_enabled">Autorisez le partage de données dans Breezy Weather pour utiliser ce plugin.</string>
+    <string name="plugin_state_breezyweather_not_installed">Breezy Weather n\'est pas installée.</string>
 </resources>
