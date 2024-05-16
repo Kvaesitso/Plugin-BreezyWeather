@@ -44,4 +44,13 @@
     <string name="weather_condition_heavyrainandthunder">Ciężki deszcz z piorunami</string>
     <string name="weather_condition_wind">Wiatr</string>
     <string name="weather_condition_unknown">Nieznany</string>
+    <string name="app_name">Kvaesitso wtyczka Breezy Weather</string>
+    <string name="plugin_package_name">Integracja z Breezy Weather</string>
+    <string name="plugin_package_description">Przekazuje dane pogodowe z Breezy Weather do Kvaesitso</string>
+    <string name="plugin_name">Breezy Weather</string>
+    <string name="plugin_state_breezyweather_not_installed">Breezy Weather nie jest zainstalowany.</string>
+    <string name="plugin_state_data_sharing_not_enabled">Włącz udostępnianie danych w Breezy Weather, aby korzystać z tej wtyczki.</string>
+    <string name="weather_condition_thunder">Wyładowania atmosferyczne</string>
+    <string name="weather_condition_thunderstorm">Burza z piorunami</string>
+    <string name="weather_condition_haze">Zamglenie</string>
 </resources>
