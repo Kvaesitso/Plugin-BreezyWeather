@@ -44,4 +44,13 @@
     <string name="weather_condition_heavyrainandthunder">Pluja intensa i trons</string>
     <string name="weather_condition_wind">Vent</string>
     <string name="weather_condition_unknown">Desconegut</string>
+    <string name="plugin_package_name">Integració de Breezy Weather</string>
+    <string name="plugin_name">Breezy Weather</string>
+    <string name="plugin_state_breezyweather_not_installed">Breezy Weather no està instal·lat.</string>
+    <string name="plugin_state_data_sharing_not_enabled">Activa l\'ús compartit de dades a Breezy Weather per utilitzar aquest connector.</string>
+    <string name="weather_condition_thunderstorm">Tempesta</string>
+    <string name="weather_condition_thunder">Tro</string>
+    <string name="weather_condition_haze">Calitja</string>
+    <string name="plugin_package_description">Reenvia les dades meteorològiques de Breezy Weather a Kvaesitso</string>
+    <string name="app_name">Conector Kvaesitso per Breezy Weather</string>
 </resources>
