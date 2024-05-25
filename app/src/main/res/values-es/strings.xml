@@ -19,9 +19,9 @@
     <string name="weather_condition_snow">Nieve</string>
     <string name="weather_condition_hail">Granizo</string>
     <string name="weather_condition_heavysnowshowers">Fuertes chubascos de nieve</string>
-    <string name="weather_condition_heavyrainshowers">Aguaceros fuertes</string>
+    <string name="weather_condition_heavyrainshowers">Fuertes aguaceros</string>
     <string name="weather_condition_rainshowersandthunder">Chubascos y truenos</string>
-    <string name="weather_condition_clearsky">Cielo limpio</string>
+    <string name="weather_condition_clearsky">Cielo despejado</string>
     <string name="weather_condition_sleet">Aguanieve</string>
     <string name="weather_condition_rain">Lluvia</string>
     <string name="weather_condition_sleetandthunder">Aguanieve y truenos</string>
@@ -44,4 +44,13 @@
     <string name="weather_condition_heavyrainandthunder">Fuertes lluvias y truenos</string>
     <string name="weather_condition_wind">Viento</string>
     <string name="weather_condition_unknown">Desconocido</string>
+    <string name="app_name">Complemento Kvaesitso Breezy Weather</string>
+    <string name="plugin_package_name">Integración con Breezy Weather</string>
+    <string name="plugin_package_description">Reenvias datos del clima de Breezy Weather a Kvaesitso</string>
+    <string name="plugin_name">Breezy Weather</string>
+    <string name="plugin_state_breezyweather_not_installed">Breezy Weather no esta instalado.</string>
+    <string name="plugin_state_data_sharing_not_enabled">Habilitar compartir datos en Breezy Weather para usar este complemento.</string>
+    <string name="weather_condition_thunder">Trueno</string>
+    <string name="weather_condition_thunderstorm">Tormenta</string>
+    <string name="weather_condition_haze">Neblina</string>
 </resources>
