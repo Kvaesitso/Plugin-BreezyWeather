@@ -44,4 +44,7 @@
     <string name="weather_condition_heavyrainandthunder">Zware regenval en donder</string>
     <string name="weather_condition_wind">Wind</string>
     <string name="weather_condition_unknown">Onbekend</string>
+    <string name="weather_condition_thunder">Onweer</string>
+    <string name="weather_condition_thunderstorm">Onweersbui</string>
+    <string name="weather_condition_haze">Heiig</string>
 </resources>
