@@ -44,4 +44,7 @@
     <string name="weather_condition_heavyrainandthunder">ฝนตกหนักและท้องฟ้าคำราม</string>
     <string name="weather_condition_wind">ลมแรง</string>
     <string name="weather_condition_unknown">ไม่ทราบ</string>
+    <string name="weather_condition_thunder">ท้องฟ้าคำราม</string>
+    <string name="weather_condition_thunderstorm">พายุฝนฟ้าคะนอง</string>
+    <string name="weather_condition_haze">ฟ้าหลัว</string>
 </resources>
