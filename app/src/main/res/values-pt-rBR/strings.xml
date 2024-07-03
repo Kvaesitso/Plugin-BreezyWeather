@@ -44,4 +44,5 @@
     <string name="weather_condition_heavyrainandthunder">Chuva intensa e trovões</string>
     <string name="weather_condition_wind">Vento</string>
     <string name="weather_condition_unknown">Desconhecido</string>
+    <string name="weather_condition_thunderstorm">Tempestade de trovões</string>
 </resources>
