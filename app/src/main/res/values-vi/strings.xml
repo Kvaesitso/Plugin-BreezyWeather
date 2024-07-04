@@ -1,2 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="plugin_package_description">Chuyển tiếp dữ liệu thời tiết từ thời tiết Breezy tới Kvaesitso</string>
+    <string name="plugin_state_data_sharing_not_enabled">Bật chia sẻ dữ liệu trong thời tiết Breezy để sử dụng plugin này.</string>
+    <string name="weather_condition_sleetshowers">Mưa đá</string>
+    <string name="app_name">Plugin thời tiết Breezy Kvaesitso</string>
+    <string name="plugin_package_name">Tích hợp thời tiết Breezy</string>
+    <string name="plugin_state_breezyweather_not_installed">Thời tiết Breezy chưa được cài đặt.</string>
+    <string name="weather_condition_heavysleet">Mưa tuyết lớn</string>
+    <string name="weather_condition_lightrainshowersandthunder">Mưa rào nhẹ và sấm sét</string>
+    <string name="weather_condition_heavyrain">Mưa lớn</string>
+    <string name="weather_condition_lightsnowandthunder">Tuyết nhẹ và sấm sét</string>
+    <string name="weather_condition_lightrain">Mưa nhẹ</string>
+    <string name="weather_condition_lightrainshowers">Mưa rào</string>
+    <string name="weather_condition_lightsnow">Tuyết nhẹ</string>
+    <string name="weather_condition_heavysleetshowersandthunder">Mưa đá lớn và sấm sét</string>
+    <string name="weather_condition_lightsnowshowers">Mưa tuyết nhẹ</string>
+    <string name="weather_condition_lightssleetshowersandthunder">Mưa đá và sấm sét</string>
+    <string name="weather_condition_snowandthunder">Tuyết và sấm sét</string>
+    <string name="weather_condition_heavysleetshowers">Mưa đá lớn</string>
+    <string name="weather_condition_heavysnow">Tuyết dày</string>
+    <string name="weather_condition_cloudy">Nhiều mây</string>
+    <string name="weather_condition_lightrainandthunder">Mưa nhỏ và sấm sét</string>
+    <string name="weather_condition_snow">Tuyết</string>
+    <string name="weather_condition_hail">Mưa đá</string>
+    <string name="weather_condition_thunderstorm">Sấm sét</string>
+    <string name="weather_condition_heavysnowshowers">Mưa tuyết dày đặc</string>
+    <string name="weather_condition_heavyrainshowers">Mưa rào</string>
+    <string name="weather_condition_rainshowersandthunder">Mưa rào và sấm sét</string>
+    <string name="weather_condition_clearsky">Bầu trời quang đãng</string>
+    <string name="weather_condition_sleet">Mưa đá</string>
+    <string name="weather_condition_rain">Mưa</string>
+    <string name="weather_condition_sleetandthunder">Mưa đá và sấm sét</string>
+    <string name="weather_condition_lightssnowshowersandthunder">Có mưa tuyết và sấm sét</string>
+    <string name="weather_condition_heavyrainshowersandthunder">Mưa lớn và sấm sét</string>
+    <string name="weather_condition_fair">Tốt</string>
+    <string name="weather_condition_fog">Sương mù</string>
+    <string name="weather_condition_sleetshowersandthunder">Mưa đá và sấm sét</string>
+    <string name="weather_condition_rainandthunder">Mưa và sấm sét</string>
+    <string name="weather_condition_lightsleet">Mưa nhẹ</string>
+    <string name="weather_condition_heavysleetandthunder">Mưa đá và sấm sét</string>
+    <string name="weather_condition_partlycloudy">Có mây rải rác</string>
+    <string name="weather_condition_heavysnowandthunder">Tuyết dày và sấm sét</string>
+    <string name="weather_condition_rainshowers">Mưa rào</string>
+    <string name="weather_condition_lightsleetandthunder">Mưa đá nhẹ và sấm sét</string>
+    <string name="weather_condition_heavysnowshowersandthunder">Mưa tuyết dày đặc và sấm sét</string>
+    <string name="weather_condition_lightsleetshowers">Mưa rào nhẹ</string>
+    <string name="weather_condition_snowshowersandthunder">Mưa tuyết và sấm sét</string>
+    <string name="weather_condition_snowshowers">Mưa tuyết</string>
+    <string name="weather_condition_heavyrainandthunder">Mưa lớn và sấm sét</string>
+    <string name="weather_condition_wind">Gió</string>
+    <string name="weather_condition_unknown">Không rõ</string>
+</resources>
