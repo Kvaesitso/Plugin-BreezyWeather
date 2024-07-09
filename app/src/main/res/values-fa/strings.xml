@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="weather_condition_clearsky">آسمان صاف</string>
+    <string name="weather_condition_rain">بارانی</string>
+    <string name="weather_condition_fog">مه</string>
+    <string name="weather_condition_partlycloudy">ابر های پراکنده</string>
+    <string name="weather_condition_heavysnowandthunder">برف شدید و رعد</string>
+    <string name="weather_condition_rainandthunder">باران و رعد</string>
+</resources>
