@@ -1,2 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="weather_condition_lightssleetshowersandthunder">Слабы лівень з мокрым снегам і навальніцай</string>
+    <string name="weather_condition_sleetandthunder">Мокры снег з навальніцай</string>
+    <string name="weather_condition_sleetshowersandthunder">Мокры снег з ліўнем і навальніца</string>
+    <string name="weather_condition_heavysnowandthunder">Сільны снег з навальніцай</string>
+    <string name="weather_condition_lightsleetshowers">Лёгкі мокры снег з ліўнем</string>
+    <string name="weather_condition_sleetshowers">Лівень з мокрым снегам</string>
+    <string name="weather_condition_heavysleet">Сільны мокры снег</string>
+    <string name="weather_condition_lightsnowandthunder">Слабы снег з навальніцай</string>
+    <string name="weather_condition_lightrainshowersandthunder">Слабы лівень з навальніцай</string>
+    <string name="weather_condition_lightrain">Слабы дождж</string>
+    <string name="weather_condition_lightrainshowers">Слабы лівень</string>
+    <string name="weather_condition_lightsnow">Слабы снег</string>
+    <string name="weather_condition_heavysleetshowersandthunder">Сільны лівень з мокрым снегам і навальніцай</string>
+    <string name="weather_condition_lightsnowshowers">Слабы лівень са снегам</string>
+    <string name="weather_condition_heavyrain">Сільны дождж</string>
+    <string name="weather_condition_snowandthunder">Снег з навальніцай</string>
+    <string name="weather_condition_heavysleetshowers">Сільны лівень з мокрым снегам</string>
+    <string name="weather_condition_heavysnow">Сільны снег</string>
+    <string name="weather_condition_cloudy">Хмарна</string>
+    <string name="weather_condition_lightrainandthunder">Лёгкі дождж з навальніцай</string>
+    <string name="weather_condition_snow">Снег</string>
+    <string name="weather_condition_hail">Град</string>
+    <string name="weather_condition_thunderstorm">Навальніца</string>
+    <string name="weather_condition_heavysnowshowers">Сільны снег з ліўнем</string>
+    <string name="weather_condition_heavyrainshowers">Сільны лівень</string>
+    <string name="weather_condition_rainshowersandthunder">Ліўні з навальніцай</string>
+    <string name="weather_condition_clearsky">Бязвоблачна</string>
+    <string name="weather_condition_sleet">Мокры снег</string>
+    <string name="weather_condition_rain">Дождж</string>
+    <string name="weather_condition_lightssnowshowersandthunder">Слабы снег з ліўнем і навальніцай</string>
+    <string name="weather_condition_heavyrainshowersandthunder">Сільны лівень з навальніцай</string>
+    <string name="weather_condition_fair">Ясна</string>
+    <string name="weather_condition_fog">Туман</string>
+    <string name="weather_condition_rainandthunder">Дождж з навальніцай</string>
+    <string name="weather_condition_lightsleet">Слабы мокры снег</string>
+    <string name="weather_condition_heavysleetandthunder">Сільны мокры снег з навальніцай</string>
+    <string name="weather_condition_partlycloudy">Месцамі хмарна</string>
+    <string name="weather_condition_rainshowers">Ліўні</string>
+    <string name="weather_condition_lightsleetandthunder">Слабы мокры снег з навальніцай</string>
+    <string name="weather_condition_heavysnowshowersandthunder">Сільны мокры снег з ліўнем і навальніцай</string>
+    <string name="weather_condition_snowshowersandthunder">Снег з дажджом і навальніцай</string>
+    <string name="weather_condition_snowshowers">Снег з дажджом</string>
+    <string name="weather_condition_heavyrainandthunder">Сільны дождж з навальніцай</string>
+    <string name="weather_condition_wind">Вецер</string>
+    <string name="weather_condition_unknown">Невядома</string>
+</resources>
