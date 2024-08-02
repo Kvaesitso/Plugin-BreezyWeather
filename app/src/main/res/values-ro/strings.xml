@@ -44,4 +44,13 @@
     <string name="weather_condition_heavyrainandthunder">Ploaie torențială și tunete</string>
     <string name="weather_condition_wind">Vânt</string>
     <string name="weather_condition_unknown">Necunoscut</string>
+    <string name="app_name">Plugin Kvaesitso Breezy Weather</string>
+    <string name="plugin_package_name">Integrare Breezy Weather</string>
+    <string name="plugin_package_description">Redirecționează date de vreme din Breezy Weather în Kvaesitso</string>
+    <string name="plugin_name">Breezy Weather</string>
+    <string name="plugin_state_breezyweather_not_installed">Breezy Weather nu este instalat.</string>
+    <string name="plugin_state_data_sharing_not_enabled">Activați partajarea datelor în Breezy Weather pentru a utiliza acest plugin.</string>
+    <string name="weather_condition_thunder">Tunete</string>
+    <string name="weather_condition_thunderstorm">Furtună</string>
+    <string name="weather_condition_haze">Negură</string>
 </resources>
