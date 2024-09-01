@@ -47,4 +47,10 @@
     <string name="weather_condition_thunder">ท้องฟ้าคำราม</string>
     <string name="weather_condition_thunderstorm">พายุฝนฟ้าคะนอง</string>
     <string name="weather_condition_haze">ฟ้าหลัว</string>
+    <string name="app_name">ปลั๊กอิน Kvaesitso สำหรับ Breezy Weather</string>
+    <string name="plugin_package_description">ส่งต่อข้อมูลสภาพอากาศจาก Breezy Weather มายัง Kvaesitso</string>
+    <string name="plugin_name">Breezy Weather</string>
+    <string name="plugin_state_breezyweather_not_installed">ยังไม่ได้ติดตั้งปลั๊กอิน Breezy Weather</string>
+    <string name="plugin_package_name">ตัวเชื่อมต่อกับ Breezy Weather</string>
+    <string name="plugin_state_data_sharing_not_enabled">ต้องเปิดใช้งานการแชร์ข้อมูลใน Breezy Weather ก่อนจึงจะใช้ปลั๊กอินนี้ได้</string>
 </resources>
