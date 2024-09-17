@@ -44,4 +44,7 @@
     <string name="weather_condition_heavyrainandthunder">Stiprus lietus ir griaustinis</string>
     <string name="weather_condition_wind">Vėjas</string>
     <string name="weather_condition_unknown">Nežinoma</string>
+    <string name="app_name">Kvaesito Breezy weather priedas</string>
+    <string name="plugin_package_name">Breezy Weather integracija</string>
+    <string name="plugin_package_description">Perduoda oro duomenis iš Breezy Weather į Kvaesito</string>
 </resources>
