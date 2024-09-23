@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="weather_condition_wind">Ventoso</string>
-    <string name="weather_condition_lightrainshowersandthunder">Aguaceiros e trovoada</string>
-    <string name="weather_condition_heavyrain">Chuva forte</string>
+    <string name="weather_condition_lightrainshowersandthunder">Aguaceiros ligeiros e trovoada</string>
+    <string name="weather_condition_heavyrain">Chuva intensa</string>
     <string name="weather_condition_lightsnowandthunder">Neve ligeira e trovoada</string>
     <string name="weather_condition_lightrain">Chuva ligeira</string>
     <string name="weather_condition_lightrainshowers">Aguaceiros ligeiros</string>
     <string name="weather_condition_lightsnow">Neve ligeira</string>
-    <string name="weather_condition_lightsnowshowers">Nevascas leves</string>
+    <string name="weather_condition_lightsnowshowers"></string>
     <string name="weather_condition_snowandthunder">Neve e trovoada</string>
     <string name="weather_condition_heavysnow">Neve intensa</string>
     <string name="weather_condition_cloudy">Nublado</string>
@@ -32,4 +32,7 @@
     <string name="plugin_state_data_sharing_not_enabled">Ative a partilha de dados em Breezy Weather para usar este plugin.</string>
     <string name="weather_condition_thunder">Trovões</string>
     <string name="weather_condition_thunderstorm">Trovoada</string>
+    <string name="weather_condition_rainshowersandthunder">Aguaceiros e trovoada</string>
+    <string name="weather_condition_heavyrainshowers">Aguaceiros intensos</string>
+    <string name="weather_condition_heavyrainshowersandthunder">Aguaceiros intensos e trovoada</string>
 </resources>
