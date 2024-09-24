@@ -7,7 +7,6 @@
     <string name="weather_condition_lightrain">Chuva ligeira</string>
     <string name="weather_condition_lightrainshowers">Aguaceiros ligeiros</string>
     <string name="weather_condition_lightsnow">Neve ligeira</string>
-    <string name="weather_condition_lightsnowshowers"></string>
     <string name="weather_condition_snowandthunder">Neve e trovoada</string>
     <string name="weather_condition_heavysnow">Neve intensa</string>
     <string name="weather_condition_cloudy">Nublado</string>
