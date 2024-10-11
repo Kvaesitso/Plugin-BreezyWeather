@@ -41,4 +41,10 @@
     <string name="weather_condition_heavyrainandthunder">Hujan lebat disertai petir</string>
     <string name="weather_condition_wind">Berangin</string>
     <string name="weather_condition_unknown">Tidak diketahui</string>
+    <string name="app_name">Plugin Cuaca Berangin Kvaesitso</string>
+    <string name="plugin_package_name">Integrasi Breezy Weather</string>
+    <string name="plugin_package_description">Meneruskan data cuaca dari Breezy Weather ke Kvaesitso</string>
+    <string name="plugin_name">Breezy Weather</string>
+    <string name="plugin_state_breezyweather_not_installed">Breezy Weather belum terpasang.</string>
+    <string name="plugin_state_data_sharing_not_enabled">Aktifkan berbagi data di Breezy Weather untuk menggunakan plugin ini.</string>
 </resources>
