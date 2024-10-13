@@ -49,4 +49,6 @@
     <string name="plugin_package_description">إعادة توجيه بيانات الطقس من Breezy Weather إلى Kvaesitso</string>
     <string name="plugin_state_data_sharing_not_enabled">قم بتمكين مشاركة البيانات في Breezy Weather لاستخدام هذه الإضافة.</string>
     <string name="app_name">كفيسيتسو اضافة Breezy Weather</string>
+    <string name="weather_condition_lightsleetshowers">زخات صقيع خفيفة</string>
+    <string name="weather_condition_thunderstorm">عاصفة رعدية</string>
 </resources>
