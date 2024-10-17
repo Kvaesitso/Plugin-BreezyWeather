@@ -51,4 +51,6 @@
     <string name="app_name">كفيسيتسو اضافة Breezy Weather</string>
     <string name="weather_condition_lightsleetshowers">زخات صقيع خفيفة</string>
     <string name="weather_condition_thunderstorm">عاصفة رعدية</string>
+    <string name="weather_condition_haze">ضباب خفيف</string>
+    <string name="weather_condition_thunder">رعد</string>
 </resources>
