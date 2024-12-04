@@ -45,4 +45,12 @@
     <string name="weather_condition_snowshowersandthunder">Snøbyger og tordenvær</string>
     <string name="weather_condition_snowshowers">Snøbyger</string>
     <string name="weather_condition_heavyrainandthunder">Kraftig regn og tordenvær</string>
+    <string name="plugin_package_name">Breezy Weather-integrasjon</string>
+    <string name="plugin_name">Breezy Weather</string>
+    <string name="plugin_package_description">Sender værdata fra Breezy Weather til Kvaesitso</string>
+    <string name="app_name">Kvaesitso Breezy Weather-tillegg</string>
+    <string name="plugin_state_breezyweather_not_installed">Breezy Weather er ikke installert.</string>
+    <string name="plugin_state_data_sharing_not_enabled">Slå på datadeling i Breezy Weather for å ta i bruk dette tillegget.</string>
+    <string name="weather_condition_thunder">Torden</string>
+    <string name="weather_condition_haze">Dis</string>
 </resources>
