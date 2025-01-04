@@ -42,13 +42,13 @@
     <string name="weather_condition_wind">ريح</string>
     <string name="weather_condition_unknown">مجهول</string>
     <string name="plugin_package_name">دمج Breezy Weather</string>
-    <string name="plugin_name">طقس بارد Breezy Weather</string>
+    <string name="plugin_name">طقس منسم Breezy Weather</string>
     <string name="plugin_state_breezyweather_not_installed">لم يتم تثبيت الطقس المنسمBreezy Weather.</string>
     <string name="weather_condition_sleetshowers">زخات من المطر</string>
     <string name="weather_condition_heavysleet">ثلج كثيف</string>
     <string name="plugin_package_description">إعادة توجيه بيانات الطقس من Breezy Weather إلى Kvaesitso</string>
     <string name="plugin_state_data_sharing_not_enabled">قم بتمكين مشاركة البيانات في Breezy Weather لاستخدام هذه الإضافة.</string>
-    <string name="app_name">كفيسيتسو اضافة Breezy Weather</string>
+    <string name="app_name">إضافة Kvaesitso Breezy Weather</string>
     <string name="weather_condition_lightsleetshowers">زخات صقيع خفيفة</string>
     <string name="weather_condition_thunderstorm">عاصفة رعدية</string>
     <string name="weather_condition_haze">ضباب خفيف</string>
