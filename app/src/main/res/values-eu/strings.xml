@@ -32,4 +32,8 @@
     <string name="weather_condition_snowshowers">Elur-zaparradak</string>
     <string name="weather_condition_wind">Haizea</string>
     <string name="weather_condition_unknown">Ezezaguna</string>
+    <string name="plugin_name">Breezy Weather</string>
+    <string name="weather_condition_haze">Lainoa</string>
+    <string name="plugin_package_name">Breezy Weather integrazioa</string>
+    <string name="plugin_state_breezyweather_not_installed">Breezy Weather ez dago instalatuta.</string>
 </resources>
