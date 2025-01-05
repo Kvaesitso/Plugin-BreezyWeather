@@ -36,4 +36,6 @@
     <string name="weather_condition_haze">Lainoa</string>
     <string name="plugin_package_name">Breezy Weather integrazioa</string>
     <string name="plugin_state_breezyweather_not_installed">Breezy Weather ez dago instalatuta.</string>
+    <string name="weather_condition_thunderstorm">Trumoi-ekaitza</string>
+    <string name="weather_condition_thunder">Trumoia</string>
 </resources>
