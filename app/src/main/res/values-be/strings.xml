@@ -45,4 +45,12 @@
     <string name="weather_condition_heavyrainandthunder">Сільны дождж з навальніцай</string>
     <string name="weather_condition_wind">Вецер</string>
     <string name="weather_condition_unknown">Невядома</string>
+    <string name="plugin_state_data_sharing_not_enabled">Уключыце абагульненне даных у Breezy Weather, каб карыстацца гэтам плагінам.</string>
+    <string name="weather_condition_thunder">Гром</string>
+    <string name="app_name">Плагін Kvaesitso Breezy Weather</string>
+    <string name="plugin_package_name">Інтэграцыя Breezy Weather</string>
+    <string name="plugin_package_description">Перадае даныя аб надвор\'і з Breezy Weather у Kvaesitso</string>
+    <string name="plugin_name">Breezy Weather</string>
+    <string name="plugin_state_breezyweather_not_installed">Breezy Weather не ўсталяваны.</string>
+    <string name="weather_condition_haze">Смуга</string>
 </resources>
