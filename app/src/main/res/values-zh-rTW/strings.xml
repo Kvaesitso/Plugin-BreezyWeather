@@ -44,4 +44,12 @@
     <string name="weather_condition_snowshowers">陣雪</string>
     <string name="weather_condition_heavyrainandthunder">重度雷雨</string>
     <string name="weather_condition_wind">颳風</string>
+    <string name="app_name">Kvaesitso Breezy Weather 外掛程式</string>
+    <string name="plugin_package_name">Breezy Weather 整合</string>
+    <string name="plugin_package_description">從 Breezy Weather 發送天氣資料至 Kvaesitso</string>
+    <string name="plugin_name">Breezy Weather</string>
+    <string name="plugin_state_breezyweather_not_installed">Breezy Weather 未安裝。</string>
+    <string name="plugin_state_data_sharing_not_enabled">在 Breezy Weather 啟用資料分享以使用此外掛程式。</string>
+    <string name="weather_condition_thunder">雷鳴</string>
+    <string name="weather_condition_haze">薄霧</string>
 </resources>
