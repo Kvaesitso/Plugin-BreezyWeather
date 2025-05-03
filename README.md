@@ -1,3 +1,6 @@
+> [!NOTE]  
+> This plugin is no longer needed. Native Breezy Weather integration has been added to Kvaesitso in version 1.36.
+
 # Kvaesitso Breezy Weather plugin
 
 This plugin is a weather provider plugin for [Kvaesitso](https://kvaesitso.mm20.de)
